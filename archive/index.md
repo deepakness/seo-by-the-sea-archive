@@ -13,9 +13,15 @@ the source from the reader page.
 ## Browse
 
 - [Start with curated reading paths]({{ '/start-here/' | relative_url }})
+- [Search all posts]({{ '/search/' | relative_url }})
 - [Browse by year]({{ '/years/' | relative_url }})
 - [Browse by topic]({{ '/topics/' | relative_url }})
-- [Search all posts]({{ '/search/' | relative_url }})
+
+## Repository
+
+The public source for this preservation archive is on GitHub:
+
+[github.com/deepakness/seo-by-the-sea-archive](https://github.com/deepakness/seo-by-the-sea-archive)
 
 ## Preservation Files
 
