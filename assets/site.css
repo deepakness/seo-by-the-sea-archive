@@ -141,15 +141,15 @@ img {
 .home-hero__content {
   width: min(var(--wide), 100%);
   margin: 0 auto;
-  padding: clamp(4rem, 11vw, 8rem) clamp(1rem, 5vw, 3rem);
+  padding: clamp(3.5rem, 9vw, 7rem) clamp(1rem, 5vw, 3rem);
   display: grid;
-  grid-template-columns: minmax(0, 1.35fr) minmax(220px, 0.65fr);
+  grid-template-columns: minmax(0, 1.25fr) minmax(260px, 0.75fr);
   align-items: center;
-  gap: clamp(2rem, 6vw, 5rem);
+  gap: clamp(2.5rem, 6vw, 5.5rem);
 }
 
 .home-hero__copy {
-  max-width: 760px;
+  max-width: 720px;
   animation: rise-in 580ms ease-out both;
 }
 
@@ -169,17 +169,17 @@ img {
 
 .home-hero h1 {
   margin: 0;
-  max-width: 850px;
-  font-size: clamp(3.25rem, 10vw, 8rem);
-  line-height: 0.88;
+  max-width: 760px;
+  font-size: clamp(2.9rem, 7vw, 6.35rem);
+  line-height: 0.94;
   letter-spacing: 0;
 }
 
 .hero-lede {
-  max-width: 720px;
+  max-width: 690px;
   margin: 1.4rem 0 0;
   color: var(--muted);
-  font-size: clamp(1.1rem, 2vw, 1.35rem);
+  font-size: clamp(1.06rem, 1.7vw, 1.22rem);
 }
 
 .hero-actions {
@@ -228,25 +228,27 @@ button.button:hover {
 
 .home-hero__portrait {
   justify-self: end;
-  width: min(100%, 430px);
+  width: min(100%, 460px);
   margin: 0;
   animation: rise-in 680ms ease-out 120ms both;
 }
 
 .home-hero__portrait img {
   width: 100%;
-  aspect-ratio: 6 / 5;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
-  object-position: center;
+  object-position: center 48%;
   border: 1px solid var(--line);
+  border-radius: 8px;
   background: var(--paper);
-  box-shadow: var(--shadow);
+  box-shadow: 0 28px 80px rgba(24, 32, 38, 0.14);
 }
 
 .home-hero__portrait figcaption {
-  margin-top: 0.85rem;
+  max-width: 34ch;
+  margin-top: 0.75rem;
   color: var(--muted);
-  font-size: 0.88rem;
+  font-size: 0.84rem;
   line-height: 1.45;
 }
 

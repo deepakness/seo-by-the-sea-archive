@@ -26,7 +26,8 @@ description: A reader-friendly preservation archive of Bill Slawski's SEO by the
     <figure class="home-hero__portrait">
       <img src="{{ '/assets/bill-slawski.png' | relative_url }}" alt="Bill Slawski">
       <figcaption>
-        Bill Slawski, via Go Fish Digital's memorial post.
+        Portrait source:
+        <a href="https://gofishdigital.com/blog/a-sad-loss-for-the-seo-community/">Go Fish Digital's memorial post</a>.
       </figcaption>
     </figure>
   </div>

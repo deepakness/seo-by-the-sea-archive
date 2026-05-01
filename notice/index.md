@@ -23,9 +23,7 @@ republish, remix, or commercialize.
 
 ## Source Attribution
 
-The original source is SEO by the Sea:
-
-https://www.seobythesea.com/
+The original source is [SEO by the Sea](https://www.seobythesea.com/).
 
 Each archived post includes a `source_url` value in its front matter and the
 reader-facing site links back to the original source URL when available.
