@@ -4,7 +4,7 @@ title: SEO by the Sea Preservation Archive
 description: A reader-friendly preservation archive of Bill Slawski's SEO by the Sea writing.
 ---
 
-<section class="home-hero" style="--hero-image: url('{{ '/archive/posts/10-most-important-seo-patents-part-1-the-original-pagerank-patent-application/media/improved-text-searching.jpg' | relative_url }}')">
+<section class="home-hero">
   <div class="home-hero__content">
     <div class="home-hero__copy">
       <p class="archive-kicker">Preserving Bill Slawski's work</p>
@@ -23,6 +23,12 @@ description: A reader-friendly preservation archive of Bill Slawski's SEO by the
         <a class="button secondary" href="{{ '/search/' | relative_url }}">Search the archive</a>
       </div>
     </div>
+    <figure class="home-hero__portrait">
+      <img src="{{ '/assets/bill-slawski.png' | relative_url }}" alt="Bill Slawski">
+      <figcaption>
+        Bill Slawski, via Go Fish Digital's memorial post.
+      </figcaption>
+    </figure>
   </div>
 </section>
 
@@ -38,8 +44,6 @@ description: A reader-friendly preservation archive of Bill Slawski's SEO by the
     <div class="stats-row" aria-label="Archive statistics">
       <div class="stat"><strong>1,290</strong><span>archived posts</span></div>
       <div class="stat"><strong>1,525</strong><span>downloaded media files</span></div>
-      <div class="stat"><strong>0</strong><span>missing local media files</span></div>
-      <div class="stat"><strong>1</strong><span>known source-image exception</span></div>
     </div>
   </div>
 </section>
