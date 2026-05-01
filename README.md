@@ -9,15 +9,14 @@ website becomes unavailable. It is a preservation archive of SEO by the Sea,
 kept readable, searchable, and attributed so Bill's work can continue helping
 people learn.
 
-## Browse the Archive
+## Read the Archive
 
-- Website: after GitHub Pages is enabled, browse the archive at
-  `https://deepakness.github.io/seo-by-the-sea-archive/`.
-- Start here: [`/start-here/`](start-here.md)
-- Full post inventory: [`archive/POSTS.md`](archive/POSTS.md)
-- Archive audit: [`archive/AUDIT.md`](archive/AUDIT.md)
-- Source manifests: [`archive/posts_manifest.json`](archive/posts_manifest.json)
-  and [`archive/posts_manifest.csv`](archive/posts_manifest.csv)
+The best way to browse this archive is the published website:
+
+**https://deepakness.github.io/seo-by-the-sea-archive/**
+
+The site includes a friendly start page, full-text search, year-by-year
+navigation, topic paths, and readable pages for each archived post.
 
 ## What Is Included
 
@@ -26,6 +25,15 @@ people learn.
 - Local media files where they were available during archival.
 - A manifest with source URLs, slugs, dates, authorship, and archive status.
 - An audit describing archive completeness and known exceptions.
+
+## Archive Files
+
+These files are mainly for verification and preservation review:
+
+- Full post inventory: [`archive/POSTS.md`](archive/POSTS.md)
+- Archive audit: [`archive/AUDIT.md`](archive/AUDIT.md)
+- Source manifests: [`archive/posts_manifest.json`](archive/posts_manifest.json)
+  and [`archive/posts_manifest.csv`](archive/posts_manifest.csv)
 
 ## Rights and Attribution
 
