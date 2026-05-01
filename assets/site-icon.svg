@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SEO by the Sea Archive icon</title>
+  <desc id="desc">A simple archive mark with a wave, horizon, and search star.</desc>
+  <rect width="512" height="512" rx="96" fill="#fbfbf8"/>
+  <path d="M96 318c38 0 38 30 76 30s38-30 76-30 38 30 76 30 38-30 76-30" fill="none" stroke="#0b6f6a" stroke-width="34" stroke-linecap="round"/>
+  <path d="M112 258h288" fill="none" stroke="#182026" stroke-width="28" stroke-linecap="round"/>
+  <path d="M164 210h184" fill="none" stroke="#182026" stroke-width="28" stroke-linecap="round"/>
+  <path d="M216 162h80" fill="none" stroke="#182026" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="358" cy="154" r="41" fill="none" stroke="#a94732" stroke-width="24"/>
+  <path d="m388 184 42 42" fill="none" stroke="#a94732" stroke-width="24" stroke-linecap="round"/>
+</svg>
