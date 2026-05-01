@@ -1,0 +1,20 @@
+# Local logs and command output
+*.log
+*.out
+*.err
+
+# Jekyll and GitHub Pages build output
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# Ruby/Bundler local state
+.bundle/
+vendor/bundle/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

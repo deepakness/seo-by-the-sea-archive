@@ -1,0 +1,1 @@
+https://www.seobythesea.com/wp-content/sign-is-lighted.jpg: failed to fetch https://www.seobythesea.com/wp-content/sign-is-lighted.jpg: 404 Client Error: Not Found for url: https://www.seobythesea.com/wp-content/sign-is-lighted.jpg

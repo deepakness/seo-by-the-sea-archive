@@ -1,0 +1,1058 @@
+---
+title: "Google's New Patents from IBM"
+source_url: "https://www.seobythesea.com/2011/07/googles-new-patents-from-ibm/"
+slug: "googles-new-patents-from-ibm"
+date_published: "2011-07-29T17:01:47+00:00"
+date_modified: "2018-07-12T20:50:02+00:00"
+author: "Bill Slawski"
+---
+
+Yesterday I noticed a very large number of new patents listed in the USPTO assignment records for Google from IBM, and made note of them in a post, [Google Acquires Over 1,000 IBM Patents in July](https://www.seobythesea.com/2011/07/google-acquires-ibm-patents-in-july/).
+
+I didn’t expect or anticipate the interest that my post would stir up, though I probably should have, given what seems to be an increased amount of litigation directed at Google involving patent infringement claims, with [Apple](http://www.zdnet.com/article/htc-pressure-mounts-to-develop-workaround-to-avoid-apple-patents/) taking on HTC and Google, Oracle and Google disputing use of Java in Android, [Purple Leaf](https://thenextweb.com/insider/2011/07/13/after-google-paypal-now-faces-purple-leaf-patent-lawsuit/) taking exception to Checkout, and other suits.
+
+Given the interest in the IBM patents in a number of places on the web and some conversations I had, I thought it might be a good idea to provide the list of patents that Google acquired earlier this month. Google acquired a number of additional patents from IBM earlier this year and last year as well. I included those in my February post, [Google Patents, Updated](https://www.seobythesea.com/2011/02/google-patents-updated/) and [Google Self Driving Cars Get Jumpstart from IBM Patents](https://www.seobythesea.com/2011/04/google-self-driving-cars-get-jumpstart-from-ibm-patents/).
+
+In yesterdays’ post, I mentioned that these newly acquired patents cover a wide range of topics, and I’ve had little chance to go through most of them. Some appear to be very broad, while others are much more narrow. Google might find a number of them useful in covering activities they are engaged in presently, such as the manufacture of a very large number of servers. Some include industries that Google might not venture into, such as the fabrication of chips. Many of them might act to help limit litigation aimed at Google.
+
+The list is below (1,029 in total – I miscounted and stated yesterday that there were 1,030 of them), with the links that includes the patents’ names pointing to the patents themselves at the USTPO, and the links with the patents’ numbers pointing to the patent assignment information for each patent. Some of them may not be that exciting, while others might stick out for one reason or another. If you find any of them of particular interesting for one reason or another, please let me know. If you find one that interest you, you can [look it up by patent number](http://patft.uspto.gov/netahtml/PTO/srchnum.htm).
+
+- US Patent # 5579471 — Image Query System And Method
+- US Patent # 5721900 — A Method And Apparatus For Graphically Displaying Query Relationships
+- US Patent # 5751286 — Image Query System And Method
+- US Patent # 5864860 — Compression Of Structured Data
+- US Patent # 5904156 — Dry Film Resist Removal In The Presence Of Electroplated C4’S
+- US Patent # 5905410 — Lock/Unlock Indicator For Pll Circuits
+- US Patent # 5905618 — Voltage Protected level Shifting Off Chip Driver
+- US Patent # 5907251 — Low Voltage Swing Capacitive Bus Driver Device
+- US Patent # 5910930 — Dynamic Control Of Power Management Circuitry
+- US Patent # 5911148 — Automated Message Processing System Configured For Automated Tape Device Management
+- US Patent # 5913208 — Identifying Duplicate Documents From Search Results Without Comparing Document Content
+- US Patent # 5918041 — Voltage Protected level Shifting Off Chip Driver
+- US Patent # 5918246 — Apparatus And Method For Prefetching Data Based On Information Contained In A Compiler Generated Program Map
+- US Patent # 5920486 — Parameterized Cells For Generating Dense Layouts Of Vlsi Circuits
+- US Patent # 5920863 — System And Method For Supporting Transactions For A Thin Client Lacking A Persistent Store In A Distributed Object-Oriented Environment
+- US Patent # 5923097 — Switching Supply Test Mode For Analog Cores
+- US Patent # 5924128 — Pseudo Zero Cycle Address Generator And Fast Memory Access
+- US Patent # 5925206 — Voltage Protected level Shifting Off Chip Driver
+- US Patent # 5926652 — Matching Of Wild Card Patterns To Wild Card Strings Associated With Named Computer Objects
+- US Patent # 5926708 — Method For Providing Multiple Gate Oxide Thicknesses On The Same Wafer
+- US Patent # 5930252 — Method And Apparatus For Queuing And Triggering Data Flow Streams For Atm Networks
+- US Patent # 5931912 — Traversal Path-Based Approach To Understanding User-Oriented Hypertext Object Usage
+- US Patent # 5933596 — Multiple Server Dynamic Page Link Retargeting
+- US Patent # 5933834 — A System And Method For Re-Striping A Set Of Objects Onto An Expanded Array Of Storage Units In A Computer System
+- US Patent # 5936629 — Accelerated Single Source 3D Lighting Mechanism
+- US Patent # 5936738 — Focus Monitor For Alternating Phase Shifted Masks
+- US Patent # 5938731 — Exchanging Synchronous Data Link Control (Sdlc) Frames To Adjust Speed Of Data Transfer Between A Client And Server
+- US Patent # 5938753 — Method And Apparatus For Controlling Autonomous Units Transferring Data Between Buses Having Different Ordering Policies
+- US Patent # 5940822 — Encoding Method Of Members Related By Multiple Concept Or Group Hierarchies And Identification Of Members In A Corpus Or A Database That Are Descendants Of One Or More Selected Concepts Or Groups From The Encoding
+- US Patent # 5940845 — System For Accessing Databases With Different Character Sets
+- US Patent # 5941943 — Apparatus And A Method For Creating Isolated Sub-Environments Using Host Names And Aliases
+- US Patent # 5941951 — Methods For Real-Time Deterministic Delivery Of Multimedia Data In A Client/Server System
+- US Patent # 5942005 — Method And Means For Computationally Efficient Error And Erasure Correction In Linear Cyclic Codes
+- US Patent # 5943171 — Head Mounted Displays Utilizing Reflection Light Valves
+- US Patent # 5943504 — System For Transferring Pixel Data From A Digitizer To A Host Memory Using Scatter/Gather Dma
+- US Patent # 5946176 — Electrostatic Discharge Protect in Utilizing Microelectromechanical Switch
+- US Patent # 5949413 — Database Graphical User Interface With Tabbed User View
+- US Patent # 5950201 — Computerized Design Automation Method Using A Single Logical Pfvl Paradigm
+- US Patent # 5951658 — System For Dynamic Allocation Of I/O Buffers For Vsam Access Method Based Upon Intended Record Access Where Performance Information Reguarding Access Is Stored In Memory
+- US Patent # 5951668 — Method And System For Transferring Data Between Buses Having Differing Ordering Policies
+- US Patent # 5951706 — Method Of Independent Simultaneous Queueing Of Message Descriptors
+- US Patent # 5953017 — Compressed Object Display
+- US Patent # 5953425 — Personal Area Network Security Lock And Recharger Combination Apparatus For Equipment Access And Utilization
+- US Patent # 5955222 — Method Of Making A Rim-Type Phase-Shift Mask And Mask Manufactured Thereby
+- US Patent # 5961659 — Independent Simultaneous Queueing Of Message Descriptors
+- US Patent # 5963152 — Resolving Block Method For Synchronization Correction In Run-Length Limited Codes
+- US Patent # 5963191 — Method And System For Denying Graphical Pointer Access To A Widget Of A Data Processing System Graphical User Interface
+- US Patent # 5963961 — Database Reconstruction Using Embedded Database Backup Codes
+- US Patent # 5965306 — Method Of Determining The Printability Of Photomask Defects
+- US Patent # 5966707 — Method For Managing A Plurality Of Data Processes Residing In Heterogeneous Data Repositories
+- US Patent # 5969720 — Data Processing System And Method For Implementing An Informative Container For A File System
+- US Patent # 5970052 — Method For Dynamic Bandwidth Testing
+- US Patent # 5970252 — Method And Apparatus For Loading Components In A Component System
+- US Patent # 5973771 — Pupil Imaging Reticle For Photo Steppers
+- US Patent # 5974445 — Web Browser Which Checks Availability Of Hot Links
+- US Patent # 5977837 — Phase Selector For External Frequency Divider And Phase Locked Loop
+- US Patent # 5978788 — System And Method For Generating Multi-Representations Of A Data Cube
+- US Patent # 5978929 — Computer Unit Responsive To Difference Between External Clock Period And Circuit Characteristic Period
+- US Patent # 5982225 — Hot Electron Compensation For Improved Mos Transistor Reliability
+- US Patent # 5983292 — Message Transport Mechanisms And Methods
+- US Patent # 5983339 — Power Down System And Method For Pipelined Logic Functions
+- US Patent # 5983343 — Data Processing System Having An Apparatus For De-Serialized Status Register Operation And Method Therefor
+- US Patent # 5986472 — Voltage Level Translation For An Output Driver System With A Bias Generator
+- US Patent # 5986962 — Internal Shadow Latch
+- US Patent # 5991708 — Performance Monitor And Method For Performance Monitoring Within A Data Processing System
+- US Patent # 5991713 — An Efficient Method For Compressing, Storing Searching And Transmitting Natural Language Text
+- US Patent # 5995440 — Off- Chip Driver And Receiver Circuits For Multiple Voltage Level Drams
+- US Patent # 5995957 — Query Optimization Through The Use Of Multi-Column Statistics To Avoid The Problems Of Column Correlation
+- US Patent # 5999013 — Method And Apparatus For Testing Variable Voltage And Variable Impedance Drivers
+- US Patent # 5999037 — Circuit For Operating A Control Transistor From A Fusible Link
+- US Patent # 5999982 — Automated Message Processing System Having A Plurality Of Expert Local Facilities Responsive To Messages Routed Thereto To Perform Predetermined Actions
+- US Patent # 6003025 — Data Transformer System For Accessing Database Information
+- US Patent # 6003045 — Accessing Stored Files From Multiple Storage Devices
+- US Patent # 6003106 — DMA Cache Control Logic )
+- US Patent # 6005939 — Method And Apparatus For Storing An Internet User’S Identity And Access Rights To World Wide Web Resources
+- US Patent # 6006267 — Method And System For Connecting Network Hosts Having Different Communication Protocols
+- US Patent # 6006636 — Programmable Punch Mechanism
+- US Patent # 6008705 — Crosstalk Suppression In Wide, High-Speed Buses
+- US Patent # 6009435 — Progressive Compression Of Clustered Multi-Resolution Polygonal Models /li>
+- US Patent # 6010392 — Die Thinning Apparatus
+- US Patent # 6011419 — Decoupling Scheme For Mixed Voltage Integrated Circuits
+- US Patent # 6011550 — Method And System For Expanding And Contracting Point Of Sale Scrolling Lists
+- US Patent # 6011918 — Methods, Systems And Computer Program Products For Generating Client/ Server Applications
+- US Patent # 6012126 — System And Method For Caching Objects Of Non-Uniform Size Using Multiple Lru Stacks Partitions Into A Range Of Sizes
+- US Patent # 6014437 — Multi Service Platform Architecture For Telephone Networks
+- US Patent # 6014671 — Interactive Retrieval And Caching Of Multi-Dimensional Data Using View Elements
+- US Patent # 6021410 — Extensible Digital Library
+- US Patent # 6182069 — Video Query System And Method
+- US Patent # 6195696 — Systems Methods And Computer Program Products For Assigning Generating And Delivering Content To Intranet Users )
+- US Patent # 6272487 — Query Optimization Through The Use Of Multi-Column Statistics To Avoid The Problems Of Non-Indexed Column Correlation
+- US Patent # 6522340 — Creating Real-World Objects
+- US Patent # 6529216 — Method And Component For Discontiguous Range Selection
+- US Patent # 6557038 — Method And Apparatus For Maintaining Session States )
+- US Patent # 6564259 — Systems, Methods And Computer Program Products For Assigning, Generating And Delivering Content To Intranet Users
+- US Patent # 6564260 — Systems, Methods And Computer Program Products For Assigning, Generating And Delivering Content To Intranet Users
+- US Patent # 6565367 — Zero Insertion Force Compliant Pin Contact And Assembly
+- US Patent # 6565496 — Fully Automated Precision Punch Head Loader For Universal Gang-Punch Tool
+- US Patent # 6565666 — Capillary Dry Process And Apparatus
+- US Patent # 6566177 — Silicon-On-Insulator Vertical Array Device Trench Capacitor Dram (
+- US Patent # 6566681 — Apparatus For Assisting Backside Focused Ion Beam Device Modification
+
+- US Patent # 6566934 — Charge Cancellation Circuit For Switched Capacitor Aplications
+- US Patent # 6567172 — System And Multipass Probe For Optical Interference Measurements
+- US Patent # 6567509 — Method And System To Extend Functionality Of Voice Processing Systems
+- US Patent # 6567773 — Use Of Static Noise Analysis For Integrated Circuits Fabricated In A Silicon-On-Insulator Process Technology
+- US Patent # 6567805 — Interactive Automated Response System
+- US Patent # 6567815 — Technique Of Clustering And Compaction Of Binary Trees
+- US Patent # 6567894 — Method And Apparatus To Prefetch Sequential Pages In A Multi-Stream Environment
+- US Patent # 6567942 — Method And Apparatus To Reduce The Size Of Programmable Array Built-In Self-Test Engines
+- US Patent # 6567943 — D Flip-Flop Structure With Flush Path For High-Speed Boundary Scan Applications
+- US Patent # 6567958 — Invention To Allow Hierarchical Logical-To-Physical Checking On Chips
+- US Patent # 6567962 — Method, Apparatus, And Program For Multiple Clock Domain Partitioning Through Retiming )
+- US Patent # 6568070 — Front Side Single Pin Extraction Tool
+- US Patent # 6569781 — Method Of Forming An Ultra-Thin Oxide Layer On A Silicon Substrate By Implantation Of Nitrogen Through A Sacrificial Layer And Sebsequent Annealing Prior To Oxide Formation
+- US Patent # 6570401 — Dual Rail Power Supply Sequence Tolerant Off-Chip Driver )
+- US Patent # 6570408 — Charge Recovery For Dynamic Circuits
+- US Patent # 6570806 — System And Method For Improving Dram Single Cell Fail Fixability And Flexibility Repair At Module Level And Universal Laser Fuse/Anti-Fuse Latch Therefor
+- US Patent # 6571225 — Text Categorizers Based On Regularizing Adaptations Of The Problem Of Computing Linear Separators
+- US Patent # 6571270 — Timeout Detection Facility
+- US Patent # 6571276 — System For Managing Asset Access In A Distributed Storage System
+- US Patent # 6571277 — Method And Apparatus For Scaling Universal Plug And Play Networks Using Atomic Proxy Replication
+- US Patent # 6571280 — Method And Apparatus For Client Sided Backup And Redundancy
+- US Patent # 6571298 — System And Method For Grouping Disk Access Commands In A Queue According To Proximate Disk Positions)
+- US Patent # 6571322 — Multiprocessor Computer System With Sectored Cache Line Mechanism For Cache Intervention
+- US Patent # 6571373 — Simulator-Independent System-On-Chip Verification Methodology
+- US Patent # 6571374 — Invention To Allow Multiple Layouts For A Schematic In Hierarchical Logical-To-Physical Checking On Chips
+- US Patent # 6572420 — Electrical Contacts With Specialized Surface Treatments
+- US Patent # 6573541 — Charge Coupled Device With Channel Well
+- US Patent # 6573606 — Chip To Wiring Interface With Single Metal Alloy Layer Applied To Surface Of Copper Interconnect
+- US Patent # 6573728 — Method And Circuit For Electrical Testing Of Isolation Resistance Of Large Capacitance Network
+- US Patent # 6573758 — Fast, Symmetrical Xor/Xnor Gate
+- US Patent # 6573904 — Mehtod And Apparatus In A Data Processing System For Updating Color Buffer Window Identifies When An Overlay Window Identifier Is Removed
+- US Patent # 6574078 — Method And Apparatus For Providing Electrostatic Discharge Protection Of A Magnetic Head Using A Mechanical Switch And An Electrostatic Discharge Device Network
+- US Patent # 6574623 — Query Transformation And Simplification For Group By Queries With Rollup/Grouping Sets In Relational Database Management Systems
+- US Patent # 6574676 — System And Method For Scheduling Disk Drive Commands By Expected Total Access Time
+- US Patent # 6574714 — Efficient Instruction Cache Coherency Maintenance Mechanism For Scalable Multiprocessor Computer System With Write-Back Data Cache
+- US Patent # 6574719 — Method And Apparatus For Concurrently Communicating With Multiple Embedded Dynamic Random Access Memory Devices )
+- US Patent # 6574782 — Decoupled Capacitance Calculator For Orthogonal Woring Patterns
+- US Patent # 6576507 — Selectively Removable Filler Layer For Bicmos Process
+- US Patent # 6576909 — Ion Generation Chamber
+- US Patent # 6576914 — Redundant Printing In E-Beam Lithography
+- US Patent # 6577146 — Method Of Burning In An Integrated Circuit Chip Package
+- US Patent # 6577152 — Noise Suppression Circuit For Suppressing Above-Ground Noises
+- US Patent # 6577178 — Transient Gate Tunneling Current Control
+- US Patent # 6577202 — Multiple Duty Cycle Tap Points For A Precise And Programmable Duty Cycle Generator
+- US Patent # 6577649 — Multiplexer For Asynchronous Data
+- US Patent # 6577905 — Apparatus And Method For Providing A Transient Port
+- US Patent # 6578144 — Secure Hash-And-Sign Signatures
+- US Patent # 6579464 — Fixtures For Processing A Workpiece In A Supercritical Fluid
+- US Patent # 6579612 — Magnetostrictive Sensor Structure
+- US Patent # 6580288 — Multi-Property Microprocessor With No Additional Logic Overhead To Shared Pins
+- US Patent # 6580293 — Body-Contacted And Double Gate-Contacted Differential Logic Circuit And Method Of Operation
+- US Patent # 6580494 — Method And System Of Distortion Compensation In A Projection Imaging Expose System
+- US Patent # 6580650 — Dram Word Line Voltage Control To Insure Full Cell Writeback Level
+- US Patent # 6581029 — Method And System For Optimizing Execution Of A Collection Of Related Module Sequences By Eliminating Redundant Modules
+- US Patent # 6581115 — Data Processing System With Configurable Memory Bus And Scalability Ports
+- US Patent # 6581139 — Set-Associative Cache Memory Having Asymmetric Latency Among Sets
+- US Patent # 6581142 — Computer Program Product And Method For Partial Paging And Eviction Of Microprocessor Instructions In An Embedded Computer
+- US Patent # 6582857 — Repair Of Masks To Promote Adhesion Of Patches
+- US Patent # 6583462 — Vertical Dram Having Metallic Node Conductor
+- US Patent # 6583789 — Method And System For Processing Glyph-Based Quality Variability Requests
+- US Patent # 6583880 — Portable Colorimeter
+- US Patent # 6584370 — Method Of Calculating Low Level Codes For Considering Capacities
+- US Patent # 6584596 — Method Of Designing A Voltage Partitioned Solder-Bump Package
+- US Patent # 6587314 — Enhanced Silicon And Ceramic Magnetoresistive Read/Write Head And A Method For Producing The Same
+- US Patent # 6587921 — Method And Apparatus For Cache Synchronization In A Clustered Environment
+- US Patent # 6587924 — Scarfing Within A Hierarchical Memory Architecture
+- US Patent # 6587925 — Elimination Of Vertical Bus Queueing Within A Hierarchical Memory Architecture
+- US Patent # 6587926 — Incremental Tag Build For Hierarchical Memory Architecture
+- US Patent # 6587963 — Method For Performing Hierarchical Hang Detection In A Computer System
+- US Patent # 6588011 — Apparatus For Automatically Generating Restore Process During Software Deployment And Method Therefor
+- US Patent # 6588216 — Apparatus And Methods For Performing Switching In Magnetic Refrigeration Systems
+- US Patent # 6589291 — Dynamically Determining The Most Appropriate Location For Style Sheet Application
+- US Patent # 6590404 — Force And Centrality Measuring Tool
+- US Patent # 6591010 — System And Method For Image Detection And Qualification
+- US Patent # 6591154 — System And Method For Modifying Enclosed Areas For Ion Beam And Laser Beam Bias Effects
+- US Patent # 6591321 — Multiprocessor System Bus Protocol With Group Addresses, Responses, And Priorities
+- US Patent # 6591898 — Integrated Heat Sink System For A Closed Electronics Container
+- US Patent # 6592627 — System And Method For Organizing Repositories Of Semi-Structured Documents Such As Email
+- US Patent # 6593205 — Patterned Soi By Formation And Annihilation Of Buried Oxide Regions During Processing
+- US Patent # 6593771 — Method And System For Use Of A Field Programmable Interconnect Within An Asic For Configuring The Asic
+- US Patent # 6593789 — Precise And Programmable Duty Cycle Generator
+- US Patent # 6593912 — Electro-Mechanical Transducer For Six Degrees Of Freedom Input And Output
+- US Patent # 6594622 — System And Method For Extracting Symbols From Numeric Time Series For Forecasting Extreme Events
+- US Patent # 6594817 — Reticle Exposure Matrix
+- US Patent # 6595136 — Method For Displacing An Article During Screening
+- US Patent # 6597840 — Tunable Fiber Bragg Gratings And Wavelength-Locked Loops For Dispersion Compensation
+- US Patent # 6598040 — Method And System For Processing Electronic Search Expressions
+- US Patent # 6598042 — System And Method For Query By Category
+- US Patent # 6598086 — Method And System For Controlling Information Flow In A High Frequency Digital System From A Producer To A Buffering Consumer Via An Intermediate Buffer
+- US Patent # 6598097 — Method And System For Performing Dma Transfers Using Operating System Allocated I/O Buffers
+- US Patent # 6598152 — Increasing The Overall Prediction Accuracy For Multi-Cycle Branch Prediction And Apparatus By Enabling Quick Recovery
+- US Patent # 6598153 — Processor And Method That Accelerate Evaluation Of Pairs Of Condition-Setting And Branch Instructions
+- US Patent # 6598206 — Method And System Of Modifying Integrated Circuit Power Rails
+- US Patent # 6598216 — Method For Enhancing A Power Bus In I/O Regions Of An Asic Device
+- US Patent # 6598225 — System, Method, And Program For Utilizing A Software State Machine Carrying Out The Process Flow Of A Software Program
+- US Patent # 6600238 — Redundancy And Component Failure Detection Within A Switching Power System
+- US Patent # 6600347 — Dynamically Producing An Effective Impedance Of An Output Driver With A Bounded Variation During Transitions Thereby Reducing Jitter
+- US Patent # 6600617 — Method And Apparatus For Adjusting Digital Filter Taps Based Upon Minimization Of Viterbi Margin Counts
+- US Patent # 6600673 — A Compilable Writeable Read Only Memory (Rom) Built With Register Arrays
+- US Patent # 6600959 — Method And Apparatus For Implementing Microprocessor Control Logic Using Dynamic Programmable Logic Arrays
+
+- US Patent # 6600982 — System, Method And Article Of Manufacture To Provide Output According To Trip Information
+- US Patent # 6601025 — Method To Partition The Physical Design Of An Integrated Circuit For Electrical Simulation
+- US Patent # 6601075 — System And Method Of Ranking And Retrieving Documents Based On Authority Scores Of Schemas And Documents
+- US Patent # 6601096 — Client Server Method For Loading A Client With A Specific Image Or Utility Based On The Client’S State
+- US Patent # 6601098 — Technique For Measuring Round-Trip Latency To Computing Devices Requiring No Client-Side Proxy Presence
+- US Patent # 6601105 — Method And System For Controlling Information Flow Between A Producer And Multiple Buffers In A High Frequency Digital System
+- US Patent # 6601124 — Universal Interface For Selectively Coupling To A Computer Port Type And Method Therefor
+- US Patent # 6601135 — No-Integrity Logical Volume Management Method And System
+- US Patent # 6601142 — Enhanced Fragment Cache
+- US Patent # 6601144 — Dynamic Cache Management In A Symmetric Multiprocessor System Via Snoop Operation Sequence Analysis
+- US Patent # 6601145 — Multiprocessor System Snoop Scheduling Mechanism For Limited Bandwidth Snoopers That Uses Dynamic Hardware/Software Controls
+- US Patent # 6601174 — Data Processing System And Method For Permitting A Server To Remotely Provide A Client Computer System’S Settings Password To The Client
+- US Patent # 6601195 — Switch Adapter Testing
+- US Patent # 6601200 — Integrated Circuit With A Vlsi Chip Control And Monitor Interface, And Apparatus And Method For Performing Operations On An Integrated Circuit Using The Same
+- US Patent # 6601220 — Method For Transistor-Level Calculation Of The Precharge Time Ofdomino Logic Circuits With Unclocked Evaluation Paths
+- US Patent # 6601222 — Coupled Noise Estimation And Avoidance Of Noise-Failure Using Global Routing Information
+- US Patent # 6601229 — Client/Server Behaviral Modeling And Testcase Development Using Vhdl For Improved Logic Verification
+- US Patent # 6601236 — System, Method And Program For Installation On Drives Using A Drive Object
+- US Patent # 6602039 — Automated Data Storage System And Apparatus And Method For Removing An Accessor From Same
+- US Patent # 6602728 — Method For Generating A Proximity Model Based On Proximity Rules )
+- US Patent # 6603339 — Precision Aligned Multiple Concurrent Duty Cycles From A Programmable Duty Cycle Generator
+- US Patent # 6603489 — Electronic Calendaring System That Automatically Predicts Calendar Entries Based Upon Previous Activities )
+- US Patent # 6603664 — Computer System Having Removable And Stackable Modules
+- US Patent # 6604095 — Method, System, Program, And Data Structure For Pivoting Columns In A Database Table
+- US Patent # 6604099 — Majority Schema In Semi-Structured Data
+- US Patent # 6604145 — Method And System For Controlling Information Flow In A High Frequency Digital System From A Producer To A Buffering Consumer Via An Intermediate Buffer And A Shared Data Path
+- US Patent # 6604160 — Computing System Arbitrating And Selectively Providing Resouce-Seeking Tasks With Takeaway Of Non-Shareable Resources
+- US Patent # 6604173 — System For Controlling Access To External Cache Memories Of Differing Size
+- US Patent # 6604174 — Performance Based System And Method For Dynamic Allocation Of A Unified Multiport Cache
+- US Patent # 6604196 — Apparatus And Method For Component Role Fulfillment Based On Environment Context.
+- US Patent # 6604210 — Method And System For Detecting And Recovering From In Trace Data
+- US Patent # 6605526 — Wirebond Passivation Pad Connection Using Heated Capillary
+- US Patent # 6605997 — Cmos Dual-Stage Differential Receiver-Amplifier
+- US Patent # 6606097 — Circuit For Generating Frame Buffer Values
+- US Patent # 6606255 — Mechanism For Plugging Planar Boards
+- US Patent # 6606326 — Packet Switch Employing Dynamic Transfer Of Data Packet From Central Shared Queue Path To Cross-Point Switching Matrix Path
+- US Patent # 6606620 — Method And System For Classifying Semi-Structured Documents
+- US Patent # 6606640 — Method, Computer Program Product, And System For Modifying Populated Databases Utilizing A Reload Utility
+- US Patent # 6606643 — Method Of Automatically Selecting A Mirror Server For Web-Based Client-Host Interaction
+- US Patent # 6606653 — Updating Of Embedded Links In World Wide Web Source Pages To Have The New Urls Of Their Linked Target Web Pages After Such Target Web Pages Have Been Moved
+- US Patent # 6606666 — Method And System For Controlling Information Flow Between A Producer And A Buffer In A High Frequency Digital System
+- US Patent # 6606676 — Method And Apparatus To Distribute Interrupts To Multiple Interrupt Handlers In A Distributed Symmetric Multiprocessor System
+- US Patent # 6606677 — High Speed Interrupt Controller )
+- US Patent # 6606680 — Method And Apparatus For Accessing Banked Embedded Dynamic Random Access Momory Devices
+- US Patent # 6606702 — Multiprocessor Speculation Mechanism With Imprecise Recycling Of Storage Operations
+- US Patent # 6606729 — Corner Simulation Methodology
+- US Patent # 6606732 — Method For Specifying, Identifying, Selecting Or Verifying Differential Signal Pairs On Ic Packages
+- US Patent # 6608758 — Chassis Shielding System
+- US Patent # 6608771 — Low-Power Circuit Structures And Methods For Content Addressable Memories And Random Access Memories
+- US Patent # 6608785 — Method And Apparatus To Ensure Functionality And Timing Robustness In Soi Circuits
+- US Patent # 6609149 — Method And Apparatus For Prioritizing Video Frame Retrieval In A Shared Disk Cluster
+- US Patent # 6609192 — System And Method For Asynchronously Overlapping Storage Barrier Operations With Old And New Storage Operations )
+- US Patent # 6609215 — Method And System For Implementing Network Filesystem-Based Customized Computer System Automated Rebuild Tool
+- US Patent # 6609227 — Scheduler For Schematic Related Jobs
+- US Patent # 6609228 — Latch Clustering For Power Optimization )
+- US Patent # 6610103 — Method For Providing Precise Cumulative Updates And Fixes To A Software Product
+- US Patent # 6610106 — 09421416Expression Editor
+- US Patent # 6611050 — Chip Edge Interconnect Apparatus And Method
+- US Patent # 6611146 — Stress Testing For Semiconductor Devices
+- US Patent # 6611211 — Data Mask Coding
+- US Patent # 6611563 — Systems, Methods And Computer Program Products For Data Mode Refinement Of Modem Constellation Points
+- US Patent # 6611817 — Automated Technique For Code Generation Of Datastream Mappings
+- US Patent # 6611827 — Redundant Disk Array And Method For Redundant Disk Array Access Using Contiguous Page Grouping
+- US Patent # 6611835 — System And Method For Maintaining Up-To-Date Link Information In The Metadata Repository Of A Search Engine
+- US Patent # 6611845 — Method And System For Storing And Managing Sets Of Objects
+- US Patent # 6611933 — Real-Time Decoder For Scan Test Patterns
+- US Patent # 6611945 — Method For Propagating Activity Information In Digital Combinatorial Networks
+- US Patent # 6613484 — Method To Decrease Fluorine Contamination In Low Dielectric Constatnt Films
+- US Patent # 6614124 — Simple 4T Static Ram Cell For Low Power Cmos Applications
+- US Patent # 6614369 — Dc Balanced 7B/8B,9B/10B, And Partitioned Dc Balanced 12B/14B,17B/20B, And 16B/18B Transmission Codes
+- US Patent # 6614541 — Method And System For Specification Of Data-Presentation Variability Data Via Scaleable Interface
+- US Patent # 6614658 — Flexible Cable Stiffener For An Optical Transceiver
+- US Patent # 6615167 — Processor-Independent System-On-Chip Verification For Embedded Processor Systems
+- US Patent # 6615170 — Model-Based Voice Activity Detection System And Method Using A Log-Likelihood Ratio And Pitch
+- US Patent # 6615310 — Lossless Data Compressor With All Cam Words Available
+- US Patent # 6615318 — Cache Management System With Multiple Cache Lists Employing Roving Removal And Priority-Based Addition Of Cache Entries
+- US Patent # 6615320 — Store Collapsing Mechanism For Smp Computer System
+- US Patent # 6615321 — Mechanism For Collapsing Store Misses In An Smp Computer System
+- US Patent # 6615323 — Optimizing Pipelined Snoop Processing
+- US Patent # 6615395 — Method For Handling Coupling Effects In Static Timing Analysis
+- US Patent # 6616704 — A Two Step Method For Correcting Spelling Of A Word Or Phrase In A Document
+- US Patent # 6617085 — Wet Etch Reduction Of Gate Widths
+- US Patent # 6617702 — Method And Apparatus For Globally Aligning The Front And Back Sides Of A Substrate
+- US Patent # 6617986 — Area Efficient, Sequential Gray Code To Thermometer Code Decoder
+- US Patent # 6618357 — Queue Management For Networks Employing Pause Time Based Flow Control
+- US Patent # 6618506 — Method And Apparatus For Improved Compression And Decompression
+- US Patent # 6618752 — Software And Method For Multicasting On A Network
+- US Patent # 6618828 — Boundary Scan Testing Involving Shared Enable Latches
+- US Patent # 6619463 — Conveying System For Use In A Manufacturing Plant
+- US Patent # 6619508 — Apparatus For Dispensing A Multiple-Component Substance From A Multiple-Barrel Cartridge
+- US Patent # 6619545 — Kiosk Having A People Presence Detector To Determine If A Kiosk Item Is To Be Presented To A Customer
+- US Patent # 6621002 — Concealed Biaxial Card To Frame Grounding Scheme
+- US Patent # 6621294 — Pad System For An Integrated Circuit Or Device
+- US Patent # 6621358 — Differential Voltage Controlled Oscillator, And Method Therefor
+- US Patent # 6621492 — Method And Apparatus Using Primitive Bounding Volumes To Improve The Accuracy Of Bsp-Trees
+- US Patent # 6621718 — Resonant Converter Circuit
+- US Patent # 6622170 — System And Method For Den/Ldap Client Database Access With A Backoff Capability
+- US Patent # 6622178 — Method And Apparatus For Activating A Computer System In Response To A Stimulus From A Universal Serial Bus Peripheral
+- US Patent # 6622188 — An I2C Bus Expansion Apparatus And Method Therefor
+- US Patent # 6622189 — Method And System For Low Overhead Spin Lock Instrumentation
+
+- US Patent # 6622222 — Sequencing Data On A Shared Data Bus Via A Memory Buffer To Prevent Data Overlap During Multiple Read Operations
+- US Patent # 6622507 — Electromechanical Device And A Process Of Preparing Same
+- US Patent # 6622786 — Heat Sink Structure With Pyramidic And Base-Plate Cut-Outs
+- US Patent # 6625590 — Command Line Interface For Reducing User Input In A Network Management Device
+- US Patent # 6625614 — Implementation For Efficient Access Of Extended Attribute Data
+- US Patent # 6625615 — Data Processing System And Method For Multi-Level Directory Searches
+- US Patent # 6625620 — Method And Apparatus For The Management Of File Attachments In A Groupware Oriented System
+- US Patent # 6625636 — Job Protection Within A Distributed Processing System Having Subsystem Downtime
+- US Patent # 6625660 — Multiprocessor Speculation Mechanism For Efficiently Managing Multiple Barrier Operations
+- US Patent # 6625674 — Method And Apparatus For State-Independent Non-Interrupt-Driven Handshake With Positive Acknowledgment
+- US Patent # 6625746 — Microprocessor Instruction Buffer Redundancy Scheme
+- US Patent # 6625753 — Recovery Facility For An Sna Communiation Network
+- US Patent # 6625773 — System For Multicast Communications In Packet Switched Networks
+- US Patent # 6626188 — Method For Cleaning And Preconditioning A Chemical Vapor Deposition Chamber Dome
+- US Patent # 6626196 — Arrangement And Method For Degassing Small-High Aspect Ratio Drilled Holes Prior To Wet Chemical Processing
+- US Patent # 6626688 — Mechanism For Seating And Unseating A Module Having An Electrical Connector
+- US Patent # 6626960 — Mechanism For Seating And Unseating A Module Having An Electrical Connector
+- US Patent # 6627020 — Method For Sinter Distortion Control
+- US Patent # 6627361 — Assist Features For Contact Hole Mask Patterns
+- US Patent # 6628281 — Method And System For Computing The Intersection Of A Bounding Volume And A Screen-Aligned Plane
+- US Patent # 6628291 — Method And Apparatus For Display Refresh Using Multiple Frame Buffers In A Data Processing System (
+- US Patent # 6628309 — Workspace Drag And Drop
+- US Patent # 6628662 — Method And System For Multilevel Arbitration In A Non-Blocking Crossbar Switch
+- US Patent # 6628964 — Combination Cordless Telephone And Remote Control For Entertainment Equipment
+- US Patent # 6629158 — System, Apparatus, And Method For Configuring An Array Controller
+- US Patent # 6629170 — Method And Apparatus For A Byte Lane Selectable Performance Monitor Bus
+- US Patent # 6629210 — Intelligent Cache Management Mechanism Via Processor Access Sequence Anaylsis
+- US Patent # 6629212 — High Speed Lock Acquisition Mechanism With Time Parameterized Cache Coherency States
+- US Patent # 6629235 — Condition Code Register Architecture For Supporting Multiple Execution Units
+- US Patent # 6629252 — Method For Determining If A Delat Required Before Proceeding With The Detected Interupt And Exiting The Interrupt Without Clearing The Interrupt
+- US Patent # 6629268 — Method And Apparatus For Servicing A Processing System Through A Test Port
+- US Patent # 6629280 — Method And Apparatus For Delaying Abist Start
+- US Patent # 6629291 — Integrated Power Solution For System On Chip Applications
+- US Patent # 6629292 — Method For Forming Graphical Images In Semiconductor Devices
+- US Patent # 6629315 — Method, Computer Program Product, And System For Dynamically Refreshing Software Modules Within An Actively Running Computer System
+- US Patent # 6630753 — Low Cost Redundant Ac To Dc Power Supply
+- US Patent # 6630926 — Apparatus And Method For Verifying Keystrokes Wtihin A Computing System
+- US Patent # 6631078 — Electronic Package With Thermally Conductive Standoff
+- US Patent # 6631115 — Method, Apparatus And Program Product For Balancing Communication Loads Over A Network
+- US Patent # 6631414 — System And Method For Establishing Virtual And Physical Connection Paths Between Peer Systems
+- US Patent # 6631446 — Self-Tuning Buffer Management
+- US Patent # 6631482 — Method And System For Providing Data Output For Analysis
+- US Patent # 6631500 — Method, System And Computer Program Product For Transferring Human Language Data Across System Boundaries
+- US Patent # 6631502 — Method Of Analyzing Integrated Circuit Power Distribution In Chips Containing Voltage Islands
+- US Patent # 6631503 — Temperature Programmable Timing Delay System
+- US Patent # 6631513 — Methods For Laying Out Memories Bidirectionally For Object Oriented Applications
+- US Patent # 6631516 — Extended Syntax Record For Assembler Language Instructions
+- US Patent # 6631675 — Screening Method For Double Pass Screening
+- US Patent # 6632314 — Method Of Making A Lamination And Surface Planarization For Multilayer Thin Film Interconnect
+- US Patent # 6633055 — Electronic Fuse Structure And Method Of Manufacturing
+- US Patent # 6633453 — Shallow Recessed T-Head With Reduced Side-Writing And Method For Making The Same
+- US Patent # 6633585 — Enhanced Flow Control In Atm Edge Switches
+- US Patent # 6633864 — Method And Apparatus For Multi-Threaded Based Search Of Documents
+- US Patent # 6633872 — Extendible Access Control For Lightweight Directory Access Protocol )
+- US Patent # 6633874 — Method For Improving The Performance Of A Web Service By Caching The Most Popular (Real-Time) Information
+- US Patent # 6633885 — System And Method For Web-Based Querying
+- US Patent # 6633888 — Method And Apparatus For Visually Creating And Testing Object Oriented Components
+- US Patent # 6633897 — Method And System For Scheduling Threads Within A Multiprocessor Data Processing System Using An Affinity Scheduler
+- US Patent # 6633909 — Notification Method That Guarantees A System Manager Discovers An Snmp Agent
+- US Patent # 6634802 — Optical-Electronic Array Module And Method Therefore
+- US Patent # 6634803 — External Emi Shield For Multiple Array Optoelectronic Devices
+- US Patent # 6635088 — Compression And Decompression Of Markup Files Through Xml Declaration And References.
+- US Patent # 6635118 — Aqueous Cleaning Of Polymer Apply Equipment
+- US Patent # 6635517 — Use Of Disposable Spacer To Introduce Gettering In Soi Layer
+- US Patent # 6636240 — System And Method For Building Dynamic E-Mail Distribution Lists From Multiple Selected Documents
+- US Patent # 6636244 — Pointing Device Selection Method
+- US Patent # 6636821 — Output Driver Impedance Calibration Circuit
+- US Patent # 6636859 — Method And System For Reassembling Fragmented Datagrams Utilizing A Plurality Of Concurrently Accessible Reassembly Queues
+- US Patent # 6636866 — System And Method For Object Representation In An Object-Oriented Programming Language
+- US Patent # 6636871 — Control Of Multiple Layer Aggregation Logical Volume Management Data And Boot Record
+- US Patent # 6636880 — Automatic Conversion Of Units In A Computer Program
+- US Patent # 6636913 — Data Length Control Of Access To A Data Bus
+- US Patent # 6636940 — Task Control For High Level Commands In Disk Drives
+- US Patent # 6636947 — Coherency For Dma Read Cached Data
+- US Patent # 6636978 — Rescheduling Data Input And Output Commands For Bus Synchronization By Using Digital Latency Shift Detection
+- US Patent # 6636984 — System And Method For Recovering Data From Mirror Drives Following System Crash
+- US Patent # 6636996 — Method And Apparatus For Testing Pipelined Dynamic Logic
+- US Patent # 6637019 — Software Modeling Of Computer Hardware
+- US Patent # 6638671 — Combined Layer-To-Layer And Within-Layer Overlay Control System
+- US Patent # 6638815 — Formation Of Self-Aligned Vertical Connector
+- US Patent # 6639612 — Ad Hoc Check Box Selection
+- US Patent # 6639661 — Technique For Imaging Electrical Contacts
+- US Patent # 6639803 — Compliant Heat Sink Device/Mounting System Interconnect And A Method Of Implementing Same
+- US Patent # 6639900 — Use Of Generic Classifiers To Determine Physical Topology In Heterogeneous Networking Environments
+- US Patent # 6640021 — Fabrication Of A Hybrid Integrated Circuit Device Including An Optoelectronic Chip
+- US Patent # 6640293 — Apparatus And Method Of Utilizing Alias Hit Signals To Detect Errors Within The Real Address Tag Arrays
+- US Patent # 6642147 — Method Of Making Thermally Stable Planarizing Films
+- US Patent # 6642750 — Sequencing Circuit For Applying A Highest Voltage Source To A Chip
+- US Patent # 6642811 — Built-In Power Supply Filter For An Integrated Circuit
+- US Patent # 6643708 — Systems, Methods And Computer Program Products For Chaining Java Servlets Across Networks
+- US Patent # 6643724 — Method And Apparatus For Interrupt Routing Of Pci Adapters Via Device Address Mapping
+- US Patent # 6643735 — Integrated Raid System With The Capability Of Selecting Between Software And Hardware Raid
+- US Patent # 6643796 — Method And Apparatus For Providing Cooperative Fault Recovery Between A Processor And A Service Processor
+- US Patent # 6643818 — Storing And Using The History Of Data Transmission Errors To Assure Data Integrity
+- US Patent # 6645795 — Polysilicon Doped Transistor Using Silicon-On-Insulator And Double Silicon-On-Insulator
+- US Patent # 6645796 — Method And Semiconductor Structure For Implementing Reach Through Buried Interconnect For Silicon-On Insulator (Soi) Devices
+- US Patent # 6646544 — Self Timed Pre-Charged Address Compare Logic Circuit )
+- US Patent # 6646996 — Use Of Adaptive Resonance Theory To Differentiate Network Device Types (Routers Vs. Switches)
+- US Patent # 6647382 — Technique For Detecting A Subsuming Temporal Relationship Of Valid Time Data In A Relational Database Management System
+- US Patent # 6647386 — Method, System, And Program For Reverse Index Scanning )
+
+- US Patent # 6647536 — Vlsi Layout Design Jobs Scheduling Method
+- US Patent # 6647579 — Brush Pressure Control System For Chemical And Mechanical Treatment Of Semiconductor Surfaces
+- US Patent # 6649309 — Method For Correcting Optical Proximity Effects In A Lithographic Process Using The Radius Of Curvature Of Shapes On A Mask
+- US Patent # 6649460 — Fabricating A Substantially Self-Aligned Mosfet
+- US Patent # 6650145 — Circuits And Systems For Limited Switch Dynamic Logic
+- US Patent # 6650190 — Ring Oscillator With Adjustable Delay
+- US Patent # 6650194 — Phase Shift Control For Voltage Controlled Oscillator
+- US Patent # 6650320 — Digital Pen Using Visible Image And Autocorrelation Of Substrate Pattern
+- US Patent # 6650344 — Method And System For Displaying Computer Documents
+- US Patent # 6650538 — Fin Heat Sink And Airflow Tube Assembly Employing Annular Airflows, And Methods Of Fabrication Thereof
+- US Patent # 6650580 — Method For Margin Testing
+- US Patent # 6650592 — Data Processing System, Method, And Product For Automatically Performing Timing Checks On A Memory Cell Using A Static Timing Tool
+- US Patent # 6651013 — Method And Apparatus For Determining The Location Of A Short In An Electrical Wire Network
+- US Patent # 6651058 — System And Method Of Automatic Discovery Of Terms In A Document That Are Relevant To A Given Target Topic (
+- US Patent # 6651059 — System And Method For The Automatic Recognition Of Relevant Terms By Mining Link Annotations
+- US Patent # 6651094 — Method And Apparatus For Creating A Preload Image
+- US Patent # 6651146 — Method And Apparatus For Managing Access Contention To A Linear List Without The Use Of Locks )
+- US Patent # 6651147 — Data Placement And Allocation Using Virtual Contiguity
+- US Patent # 6651162 — Recursively Accessing A Branch Target Address Cache Using A Target Address Previously Accessed From The Branch Target Address Cache
+- US Patent # 6651230 — Method For Reducing Design Effect Of Wearout Mechanisms On Signal Skew In Integrated Circuit Design (
+- US Patent # 6652159 — Enhanced Optical Transceiver Arrangement
+- US Patent # 6653233 — Process Of Providing A Semiconductor Device With Electrical Interconnection Capability )
+- US Patent # 6653710 — Fuse Structure With Thermal And Crack-Stop Protection
+- US Patent # 6654036 — Method, Article Of Manufacture And Apparatus For Controlling Relative Positioning Of Objects In A Windows Environment
+- US Patent # 6654191 — Restoration Of Hard Disk Drive Readback Signal In The Presence Of Thermal Modulation
+- US Patent # 6654250 — Low-Stress Compressive Heatsink Structure
+- US Patent # 6654277 — Sram With Improved Noise Sensitivity
+- US Patent # 6654488 — Fill Pattern Inspection
+- US Patent # 6654734 — System And Method For Query Processing And Optimization For Xml Repositories
+- US Patent # 6654747 — Modular, Scalable System For Managing Data In A Heterogeneous Enivironment With Generic Structure For Control Repository Access Transactions
+- US Patent # 6654777 — Single Precision Inverse Square Root Generator
+- US Patent # 6654781 — Enhanced Thread Processing
+- US Patent # 6654818 — Dma Access Authorization For 64-Bit I/O Adapters On Pci Bus
+- US Patent # 6654835 — High Bandwidth Data Transfer Employing A Multi-Mode, Shared Line Buffer
+- US Patent # 6654876 — System For Rejecting And Reissuing Instructions After A Variable Delay Time Period
+- US Patent # 6654878 — Register Bit Scanning
+- US Patent # 6654906 — Recovery From Instruction Fetch Errors In Hypervisor Code
+- US Patent # 6654917 — Method And Apparatus For Scanning Free-Running Logic
+- US Patent # 6654943 — Method, System, And Computer Program Product For Correcting Anticipated Problems Related To Global Routing
+- US Patent # 6656369 — Method For Fabricating A Scanning Probe Microscope Probe
+- US Patent # 6656751 — Self Test Method And Device For Dynamic Voltage Screen Functionality Improvement
+- US Patent # 6656817 — Method Of Filling Isolation Trenches In A Substrate
+- US Patent # 6657219 — Optical Detection And Measurement System
+- US Patent # 6657244 — Structure And Method To Reduce Silicon Substrate Consumption And Improve Gate Sheet Resistance During Silicide Formation )
+- US Patent # 6657325 — Multiple Fan Sensing Circuit And Method For Monitoring Multiple Cooling Fans Utilizing A Single Fan Sense Input
+- US Patent # 6657561 — Data Decompression System And Method
+- US Patent # 6657564 — Method And Apparatus For Compressing Data In Which Dictionary Sizes Are Reduced
+- US Patent # 6657565 — Method And System For Improving Lossless Compression Efficiency
+- US Patent # 6657809 — Method And Apparatus For Positioning A Transducer Using A Phase Difference In Surface Profile Variations On A Storage Medium
+- US Patent # 6657912 — Circuit For Optimizing Power Consumption And Performance
+- US Patent # 6657968 — Glitcher System And Method For Interfaced Or Linked Architectures
+- US Patent # 6658092 — Method, Apparatus And Computer Program Product For Authorizing Re-Recording
+- US Patent # 6658437 — System And Method For Data Space Allocation Using Optimized Bit Representation (
+- US Patent # 6658470 — Centralized Logging Of Global Reliability, Availability, And Serviceability (Gras) Services Data For A Distributed Environment And Backup Logging System And Method In Event Of Failure
+- US Patent # 6658471 — Method And System For Zero Overhead Software Performance Measurement Instrumentation
+- US Patent # 6658481 — A Router Uses A Single Hierarchy Independent Routing Table That Includes A Flag To Look-Up A Series Of Next Hop Routers For Routing Packets
+- US Patent # 6658510 — Software Method To Retry Access To Peripherals That Can Cause Bus Timeouts During Momentary Busy Periods
+- US Patent # 6658534 — Mechanism To Reduce Instruction Cache Miss Penalties And Methods Therefor
+- US Patent # 6658539 — Super-Coherent Data Mechanisms For Shared Caches In A Multiprocessing System
+- US Patent # 6658546 — Storing Frame Modification Information In A Bank In Memory
+- US Patent # 6658548 — System And Method In A Data Processing System For Extracting Data From A Protected Region Of Memory (
+- US Patent # 6658555 — Determining Successful Completion Of An Instruction By Comparing The Number Of Pending Instruction Cycles With A Number Based On The Number Of Stages In The Pipeline
+- US Patent # 6658558 — Branch Prediction Circuit Selector With Instruction Context Related Condition Type Determining
+- US Patent # 6658574 — Method For Non-Disclosing Password Entry
+- US Patent # 6658584 — A System For Storing Count Information In Memory Using A Counter Manager Which Is Provided Parameters Of Each Event And A Table To Uniquely Identify Memory Locations (
+- US Patent # 6658594 — Attention Mechanism For Immediately Displaying/Logging System Checkpoints
+- US Patent # 6658596 — Automated Queue Recovery Using Element- Based Journaling
+- US Patent # 6658604 — Method For Testing And Guaranteeing That Skew Between Two Signals Meets Predetermined Criteria
+- US Patent # 6658634 — Logic Power Optimization Algorithm
+- US Patent # 6658652 — Method And System For Shadow Heap Memory Leak Detection And Other Heap Analysis In An Object-Oriented Environment During Real-Time Trace Processing )
+- US Patent # 6659002 — Screening Apparatus With Trailing Squeegee And Method Of Screening
+- US Patent # 6659656 — Packaging Architecture For A Multiple Array Transceiver Using A Winged Flexible Cable For Optimal Wiring
+- US Patent # 6660330 — Method For Depositing Metal Films Onto Substrate Surfaces Utilizing A Chambered Ring Support
+- US Patent # 6660456 — Technique For The Size Reduction Of Vias And Other Images In Semiconductor Chips
+- US Patent # 6661106 — Alignment Mark Structure For Laser Fusing And Method Of Use )
+- US Patent # 6661262 — Frequency Doubling Two-Phase Clock Generation Circuit )
+- US Patent # 6661267 — Coarse Calibration Circuit Using Variable Step Sizes To Reduce Jitter And A Dynamic Course Calibration (Dcc) Circuit For A 2 Ghz Vco
+- US Patent # 6661303 — Cross Talk Suppression In A Bidirectional Bus
+- US Patent # 6661596 — Apparatus And Method For Adapting A Data Recording Device To Ambient Environmental Conditions Such As Temperature And Humidity In Order To Reduce The Risk Of Damage To The Storage Media
+- US Patent # 6661600 — Calibration Of Servo Index Positions Of A Magnetic Tape Employing Second Order Curve Fitting
+- US Patent # 6661661 — Common Heatsink For Multiple Chips And Modules
+- US Patent # 6661670 — Apparatus, Assembly And System For Enhancing Emi Shielding
+- US Patent # 6661726 — Multiple Mode Elastic Data Transfer Interface
+- US Patent # 6662136 — Digital Temperature Sensor (Dts) System To Monitor Temperature In A Memory Subsystem
+- US Patent # 6662181 — Mechanism For Selection Using Access Control Structures For Authoring Systems
+- US Patent # 6662183 — Vendor Independent Network Configuration Tool Method, System, And Product
+- US Patent # 6662268 — System And Method For Striped Mirror Re-Synchronization By Logical Partition Rather Than Stripe Units
+- US Patent # 6662320 — Method And Apparatus For Inhibiting An Adapter Bus Error Signal Following A Reset Operation
+- US Patent # 6662324 — Global Transition Scan Based Ac Method
+- US Patent # 6662342 — Method, System, And Program For Providing Access To Objects In A Document
+- US Patent # 6662352 — Method Of Assigning Chip I/O’S To Package Channels
+- US Patent # 6662355 — Method And System For Specifying And Implementing Automation Of Business Processes
+- US Patent # 6662360 — Method And System For Software Control Of Hardware Branch Prediction Mechanism In A Data Processor
+- US Patent # 6662718 — Screening Mask Having A Stress-Relieving Area
+- US Patent # 6663431 — Shielding In A Power Connector
+- US Patent # 6664023 — Controlled Aging Of Photoresists For Faster Photospeed
+- US Patent # 6664161 — Method And Structure For Salicide Trench Capacitor Plate Electrode
+- US Patent # 6664836 — Dynamic Phase Splitter Circuit And Method For Low-Noise And Simultaneous Production Of True And Complement Dynamic Logic Signals
+- US Patent # 6664967 — Apparatus To Detect Setting Of Bits In A Data Structure
+- US Patent # 6665600 — System And Method For Acquiring Normalized Automotive Positional Settings
+
+- US Patent # 6665649 — Smooth End Of Auction On The Internet
+- US Patent # 6665658 — System And Method For Automatically Gathering Dynamic Content And Resources On The World Wide Web By Simulating User Interaction And Managing Session Information
+- US Patent # 6665705 — Method And Apparatus For Proxy Replication
+- US Patent # 6665707 — Groupware Environment That Adaptively Tailors Open Microphone Sessions Based On Participant Locality
+- US Patent # 6665753 — Performance Enhancement Implementation Through Buffer Management/Bridge Settings
+- US Patent # 6665785 — System And Method For Automating Page Space Optimization
+- US Patent # 6665814 — Method And Apparatus For Providing Serialization Support For A Computer System
+- US Patent # 6665828 — Globally Distributed Scan Blocks
+- US Patent # 6665853 — Netlist Consistency
+- US Patent # 6665868 — Optimizing Host Application Presentation Space Recognition Events Through Matching Prioritization
+- US Patent # 6666589 — Internal Emi Shield For Multiple Array Optoelectronic Devices
+- US Patent # 6667648 — Voltage Island Communications Circuits
+- US Patent # 6667751 — Linear Web Browser History Viewer
+- US Patent # 6667893 — Optimized Phase And Frequency Shifted Controller For Interleaved Zvs Forward Power Converter
+- US Patent # 6668257 — Igrating Non-Persistent Objects When One Or More Of The Superclass Fields Of The Object Are Modified
+- US Patent # 6668310 — High Speed Counters
+- US Patent # 6668332 — Functional Clock Observation Controlled By Jtag Extensions
+- US Patent # 6668358 — Dual Threshold Gate Array Or Standard Cell Power Saving Library Circuits
+- US Patent # 6668361 — Method And System For Use Of A Field Programmable Function Within A Chip To Enable Configurable I/O Signal Timing Characteristics
+- US Patent # 6669084 — Optical Transaction Card
+- US Patent # 6670255 — Method Of Fabricating Lateral Diodes And Bipolar Transistors
+- US Patent # 6670283 — Backside Protection Films
+- US Patent # 6670624 — Ion Implanter In-Situ Mass Spectrometer
+- US Patent # 6670683 — Composite Transistor Having A Slew-Rate Control
+- US Patent # 6671111 — Readback Signal Detection And Analysis In A Magnetic Data Storage System
+- US Patent # 6671218 — System And Method For Hiding Refresh Cycles In A Dynamic Type Content Addressable Memory
+- US Patent # 6671253 — Method And System For Providing Peer Redundancy To Asynchronous Transfer Mode Emulated Local-Area Networks
+- US Patent # 6671280 — Network Processor For Multiprotocol Data Flows
+- US Patent # 6671712 — Multi-Node Data Processing System Having A Non-Hierarchical Interconnect Architecture
+- US Patent # 6671721 — Object Oriented Framework Mechanism And Method For Distributing And Managing Heterogenous Operations Of A Network Application
+- US Patent # 6671733 — Internal Parallel System Channel
+- US Patent # 6671789 — Method And Apparatus For Determining Unknown Relationships Between Storage Devices And Storage Device Enclosures
+- US Patent # 6671838 — Method And Apparatus For Programmable Lbist Channel Weighting
+- US Patent # 6671850 — On-The-Fly Algebraic Error Correction System And Method For Reducing Error Location Search
+- US Patent # 6671853 — Method And System For Selectively Streaming Xml Documents
+- US Patent # 6671854 — Dynamic Web Object Row Count In Hyper Text Markup Language
+- US Patent # 6671875 — Manipulation Of An Object-Oriented User Interface Process To Provide Rollback Of Object-Oriented Scripts From A Procedural Business Logic Debugger
+- US Patent # 6673521 — Supercritical Fluid(Scf) Silylation Process
+- US Patent # 6674455 — Apparatus And Method For Printing Two Colors In A Single Pass Using Thermally Sensitive Direct And Transfer Media
+- US Patent # 6674841 — Method And Apparatus In A Data Processing System For An Asynchronous Context Switching Mechanism (
+- US Patent # 6675063 — Apparatus And Method For Calibrating Multi-Gripper Equipped Accessor In An Automated Data Storage Library (
+- US Patent # 6675082 — System And Method For Automotive Systems Relative Positional Translations
+- US Patent # 6675182 — Method And Apparatus For Performing Rotate Operations Using Cascaded Multiplexers
+- US Patent # 6675185 — Hybrid Domain Processing Of Multi-Dimensional Transformed Data.
+- US Patent # 6675223 — Method And Apparatus For Processing Frames Using Static And Dynamic Classifiers
+- US Patent # 6675227 — Method For Providing A Service Implementation For Both Ejb And Non-Ejb Environments
+- US Patent # 6675279 — Behavioral Memory Enabled Fetch Prediction Mechanism Within A Data Processing System
+- US Patent # 6675317 — Behavioral Memory Enabled Fetch Prediction Mechanism Within A Data Processing System
+- US Patent # 6675350 — System For Collecting And Displaying Summary Information From Disparate Sources
+- US Patent # 6675354 — Case-Insensitive Custom Tag Recognition And Handling
+- US Patent # 6675370 — System And Method For Imbedding Hyperlinked Language Grammar Notation In A “Literate” Programming Environment
+- US Patent # 6675378 — Object Oriented Apparatus And Method For Allocating Array Objects On An Invocation Stack )
+- US Patent # 6676729 — Metal Salt Reduction To Form Alloy Nanoparticles
+- US Patent # 6676784 — Process For The Manufacture Of Multilayer Ceramic Substrates
+- US Patent # 6678752 — Data Storage System With Automatic Storage Request Analysis And Selection Of Optimal Output Media Type
+- US Patent # 6678768 — Data Storage System With Automatic Storage Request Analysis And Selection Of Optimal Output Media Type
+- US Patent # 6678794 — Smoothing Bursts Of Disk Load In A File System
+- US Patent # 6678795 — Method And Apparatus For Memory Prefetching Based On Intra-Page Usage History
+- US Patent # 6678814 — Method And Apparatus For Allocating Data Usages Within An Embedded Dynamic Random Access Memory Device
+- US Patent # 6678847 — Method And Apparatus For Allocating Data Usages Within An Embedded Dynamic Random Access Memory Device
+- US Patent # 6847962 — Analyzing, Optimizing And Rewriting Queries Using Matching And Compensation Between Query And Automatic Summary Tables
+- US Patent # 7080062 — Optimizing Database Queries Using Query Execution Plans Derived From Automatic Summary Table Determining Cost Based Queries
+- US Patent # 7099880 — System And Method Of Using Data Mining Prediction Methodology
+- US Patent # 7167853 — Matching And Compensation Tests For Optimizing Correlated Subqueries Within Query Using Automatic Summary Tables
+- US Patent # 7206791 — System And Method For Managing And Securing Meta Data
+- US Patent # 7213244 — Apparatus And Method For Distribution Of Work On A Doubly Linked List Among Processing Threads
+- US Patent # 7217144 — Connector Drawer
+- US Patent # 7217604 — Structure And Method For Thin Box Soi Device
+- US Patent # 7218128 — Method And Apparatus For Locating And Testing A Chip
+- US Patent # 7218129 — System, Apparatus And Method For Controlling Temperature Of An Integrated Circuit Under Test
+- US Patent # 7218135 — Method And Apparatus For Reducing Noise In A Dynamic Manner
+- US Patent # 7218543 — Rom Load Balancing For Bit Lines )
+- US Patent # 7218944 — Frequency Beacon To Broadcast Allowed Frequency
+- US Patent # 7218984 — Dynamically Determining Yield Expectation
+- US Patent # 7219046 — Characterizing Input/Output Models
+- US Patent # 7219074 — System And Method For Obtaining Items At A Traveler’S Destination
+- US Patent # 7219098 — System And Method For Processing Data In A Distributed Architecture
+- US Patent # 7219105 — Method, System And Computer Program Product For Profiling Entities
+- US Patent # 7219113 — Pseudo-Random Binary Sequence Checker With Automatic Synchronization
+- US Patent # 7219210 — Memory Allocation To Multiple Computing Units
+- US Patent # 7219273 — Method For Testing Media In A Library Without Inserting Media Into The Library Database
+- US Patent # 7219279 — Software Testing
+- US Patent # 7219298 — Method, System, And Program For Verifying Network Addresses Included In A File
+- US Patent # 7219316 — Multi-Valued Or Single Strength Signal Detection In A Hardware Description Language
+- US Patent # 7219341 — Code Analysis For Selective Runtime Data Processing
+- US Patent # 7220662 — Fully Silicided Field Effect Transistors
+- US Patent # 7221536 — Combined Media Library Cell Array And Storage Device Utilizing A Media Holder Adapted To Receive A Cover For Closing The Holder
+- US Patent # 7222116 — Method And System For Matching Complex Customer Requirements With Provider Solutions
+- US Patent # 7222248 — A Method Of Switching Voltage Islands In Integrated Circuits When A Grid Voltage At A Reference Location Is Within A Specified Range
+- US Patent # 7222274 — Testing And Repair Methodology For Memories Having Redundancy
+- US Patent # 7222296 — Configurable Display Of Web Site Content
+- US Patent # 7222326 — Automatic Process Aid Design Method, System And Program Product
+- US Patent # 7222344 — Method And Apparatus For Scheduling Invalidation Tests For Http Sessions )
+- US Patent # 7223697 — Chemical Mechanical Polishing Method
+- US Patent # 7224587 — Heat Sink And Chip Sandwich System
+- US Patent # 7224594 — Glitch Protect Valid Cell And Method For Maintaining A Desired State Value
+- US Patent # 7224776 — Method, System, And Apparatus For Testing A Voice Response System )
+- US Patent # 7224840 — Method, System, And Program For Error Recovery While Decoding Compressed Data
+- US Patent # 7225097 — Methods And Apparatus For Memory Calibration
+- US Patent # 7225209 — Computer-Implemented Method For Allocating New Additional Area For The Dataset In Storage Based On The Size Of The New Additional Area Wherein If The New Area Number Does Not Exceed Clipping Threshold, The Size Of A New Additional Area Being Greater Than The Size Of Each Previously Allocated Additional Area Of The Dataset
+
+- US Patent # 7225226 — Chat Messaging Channel Redirection )
+- US Patent # 7225295 — External Ram Module )
+- US Patent # 7225297 — Compressed Cache Lines Incorporating Embedded Prefetch History Data
+- US Patent # 7225309 — Method And System For Autonomic Performance Improvements In An Application Via Memory Relocation
+- US Patent # 7225364 — Method And Apparatus For Implementing Infiniband Receive Function
+- US Patent # 7225374 — Abist-Assisted Detection Of Scan Chain Defects
+- US Patent # 7225375 — Method And Apparatus For Detecting Array Degradation And Logic Degradation
+- US Patent # 7225429 — Breakpoint Groups Based On Control Flow
+- US Patent # 7225435 — Method And System For Eliminating Redundant Execution Sequences That Appear In Workloads During Workload Simulation On An E-Business Application Server )
+- US Patent # 7225442 — Method And System For Dynamic Utilization Mechanisms For Facilities Whose Reservation Status Can Change Dynamically
+- US Patent # 7226825 — Method Of Fabricating Micro-Chips
+- US Patent # 7227204 — Structure For Improved Diode Ideality
+- US Patent # 7227239 — Resettable Fuse Device And Method Of Fabricating The Same
+- US Patent # 7228243 — Implementing A High Resolution Monotonic System Clock
+- US Patent # 7228308 — Method And System For Direct Linkage Of A Relational Database Table For Data Preparation
+- US Patent # 7228385 — Processor, Data Processing System And Method For Synchronzing Access To Data In Shared Memory
+- US Patent # 7228478 — Built-In Self-Test (Bist) For High Performance Circuits
+- US Patent # 7228484 — Method And Apparatus For Implementing Redundancy Enhanced Differential Signal Interface
+- US Patent # 7228495 — Method And System For Providing An Index To Linked Sites On A Web Page For Individuals With Visual Disabilities
+- US Patent # 7228537 — System And Method For Configuring An Application
+- US Patent # 7228542 — System And Method For Dynamically Creating A Customized Multi-Product Software Installation Plan As A Textual, Non-Executable Plan
+- US Patent # 7229015 — Self-Checkout System
+- US Patent # 7229024 — Collimating Signals
+- US Patent # 7229889 — Methods For Metal Plating Of Gate Conductors And Semiconductors Formed Thereby
+- US Patent # 7229936 — Method To Reduce Photoresist Pattern Collapse By Controlled Surface Microroughening
+- US Patent # 7230335 — Inspection Methods And Structures For Visualizing And/Or Detecting Specific Chip Structures
+- US Patent # 7230455 — Logic Circuits Utilizing Gated Diode Sensing
+- US Patent # 7230463 — Method And Apparatus For Controlling Transition Rates On Adjacent Interconnects
+- US Patent # 7230873 — Forced Pulldown Of Array Read Bitlines For Generating Mux Select Signals
+- US Patent # 7231335 — Method And Apparatus For Performing Input/Output Floor Planning On An Integrated Circuit Design
+- US Patent # 7231342 — Method, System, And Computer Program Product In A Logically Partitioned Data Processing System For Displaying Messages In A Management Console’S Native Language
+- US Patent # 7231361 — Method, System, And Storage Medium For Utilizing Excess And Surplus Inventory
+- US Patent # 7231396 — Data Abstraction Layer For A Database
+- US Patent # 7231461 — Synchronization Of Group State Data When Rejoining A Member To A Primary-Backup Group In A Clustered Computer System
+- US Patent # 7231479 — Round Robin Selection Logic Improves Area Efficiency And Circuit Speed
+- US Patent # 7231496 — Method, System And Program Product For Caching Data Objects
+- US Patent # 7231519 — Secure Inter-Node Communication
+- US Patent # 7232695 — Method And Apparatus For Completely Covering A Wafer With A Passivating Material
+- US Patent # 7233170 — Programmable Driver Delay
+- US Patent # 7233212 — Oscillator Array With Row And Column Control
+- US Patent # 7233494 — Cooling Apparatus, Cooled Electronic Module And Methods Of Fabrication Thereof Employing An Integrated Manifold And A Plurality Of Thermally Conductive Fins )
+- US Patent # 7233733 — Method And System For Finding Evolving Regions In Graphs Without Persistent Node Identity
+- US Patent # 7234088 — Method And Apparatus For Generating Signal Transitions Used For Testing An Electronic Device
+- US Patent # 7234090 — Method And Apparatus For Selective Scan Chain Diagnostics
+- US Patent # 7234218 — Electrical Wiring Design For Module Removal And Replacement From Organic Board
+- US Patent # 7236577 — Call Screening System And Method
+- US Patent # 7236592 — Efficient Stream Cipher System And Method
+- US Patent # 7236909 — Autonomic Data Assurance Applied To Complex Data-Intensive Software Processes By Means Of Pattern Recognition
+- US Patent # 7236998 — System And Method For Solving A Large System Of Dense Linear Equations
+- US Patent # 7237070 — Cache Memory, Processing Unit, Data Processing System And Method For Assuming A Selected Invalid Coherency State Based Upon A Request Source
+- US Patent # 7237100 — Transaction Redirection Mechanism For Handling Late Specification Changes And Design Errors
+- US Patent # 7237101 — Methods And Apparatus For Self Describing Devices
+- US Patent # 7237163 — Leakage Current Reduction System And Method
+- US Patent # 7237190 — System And Method For Generating Multiple Customizable Interfaces For Xml Documents (
+- US Patent # 7237215 — Method For Providing Memory Cells Capable Of Allowing Multiple Variations Of Metal Level Assignments For Bitlines And Wordlines
+- US Patent # 7238547 — Packaging Integrated Circuits For Accelerated Detection Of Transient Particle Induced Soft Error Rates )
+- US Patent # 7239157 — Optical Trigger For Pica Technique
+- US Patent # 7239213 — Reduced Cross-Talk Signaling Circuit And Method )
+- US Patent # 7239376 — A Method And Apparatus For Correcting Gravitational Sag In Photomasks Used In The Production Of Electronic Devices
+- US Patent # 7239614 — Methods And Apparatus For The Propagation Of Multicast Transmissions In A Communications Network
+- US Patent # 7239993 — Method, System And Program Product That Automatically Generate Coverage Instrumentation For Configuration Constructs Within A Digital System
+- US Patent # 7240050 — Methods And Apparatus For Generating Automated Graphics Using Stored Graphics Examples
+- US Patent # 7240087 — Communication Network Having Adjustable Response Timeouts And Method Therefore
+- US Patent # 7240115 — Programmatically Allocating Memory Among Competing Services In A Distributed Computing Environment
+- US Patent # 7240155 — Decision Mechanisms For Adapting Raid Operation Placement
+- US Patent # 7240166 — Method And Apparatus For Implementing Packet Work Area Accesses And Buffer Sharing
+- US Patent # 7240177 — System And Method For Improving Performance Of Dynamic Memory Removals By Reducing File Cache Size
+- US Patent # 7240182 — System And Method For Providing A Persistent Function Server
+- US Patent # 7240227 — Automatic Restart And Resume Of Computing System Upon Reapplication Of External Power
+- US Patent # 7240243 — System And Method For Facilitating Programmable Coverage Domains For A Testcase Generator
+- US Patent # 7240263 — Apparatus For Performing Stuck Fault Testings Within An Integrated Circuit
+- US Patent # 7240297 — User Assistance System
+- US Patent # 7240299 — Method For Improving Usage Of A Graphic User Interface Pointing Device
+- US Patent # 7240326 — System And Method For Obtaining Display Names From Management Models
+- US Patent # 7240343 — System And Method For Handling An Exception In A Program )
+- US Patent # 7242233 — Simplified Method For Limiting Clock Pulse Width
+- US Patent # 7242237 — Supply Switch Circuit For Implementing A Switchable On-Chip High Voltage Supply
+- US Patent # 7242239 — Programming And Determining State Of Electrical Fuse Using Field Effect Transistor Having Multiple Conduction States
+- US Patent # 7242339 — Programmable Reference Voltage Generator
+- US Patent # 7242579 — System And Method For Providing Cooling In A Three-Dimensional Infrastructure For Massively Scalable Computers
+- US Patent # 7242737 — System And Method For Data Phase Realignment
+- US Patent # 7243059 — Simulation Of Hardware Based On Smart Buffer Objects
+- US Patent # 7243169 — Method, System And Program For Oscillation Control Of An Internal Process Of A Computer Program
+- US Patent # 7243170 — Method And Circuit For Reading And Writing An Instruction Buffer
+- US Patent # 7243194 — Method To Preserve Ordering Of Read And Write Operations In A Dma System By Delaying Read Access
+- US Patent # 7243204 — Reducing Bus Width By Data Compaction )
+- US Patent # 7243209 — Apparatus And Method For Speeding Up Access Time Of A Large Register File With Wrap Capability
+- US Patent # 7243279 — Method For Separating Shift And Scan Paths On Scan-Only, Single Port Lssd Latches
+- US Patent # 7245159 — Protecting One-Hot Logic Against Short-Curcuits During Power-On
+- US Patent # 7245161 — Apparatus And Method For Verifying Glitch-Free Operation Of A Multiplexer
+- US Patent # 7246074 — System And Method For Identifying Skills And Tools Needed To Support A Process Utilizing Pre-Defined Templates
+- US Patent # 7246115 — Materialized View Signature And Efficient Identification Of Materialized View Candidates For Queries
+- US Patent # 7246272 — Duplicate Network Address Detection
+- US Patent # 7246332 — Methods, Systems And Media For Functional Simulation Of Noise And Distortion On An I/O Bus
+- US Patent # 7246352 — System For Generating A Virtual Map To A Plurality Of Files Necessary For Installing Software From Multiple Networked Locations
+- US Patent # 7246359 — Methods, Systems And Computer Program Products For Maintaining Association Integrity Of Enterprise Javabeans (Ejb) During Ejb Passivation And Reactivation
+- US Patent # 7247547 — Method Of Fabricating A Field Effect Transistor Having Improved Junctions
+- US Patent # 7248263 — User Interface For Representing Multiple Data Sets On A Common Graph
+- US Patent # 7248267 — Method And Apparatus For Simulated Direct Frame Buffer Access For Graphics Adapters
+- US Patent # 7248455 — Method And Apparatus For Providing Compressive Connection With Electrostatic Discharge Dissipative Properties
+
+- US Patent # 7248563 — Method, System, And Computer Program Product For Restricting Access To A Network Using A Network Communications Device
+- US Patent # 7248589 — Apparatus For Enabling Multi-Tuple Tcp Sockets Within A Computer Network
+- US Patent # 7248595 — Method,Apparatus, And Computer Program Product For Implementing Packet Ordering
+- US Patent # 7248936 — Automated Tool Recipe Verification And Correction
+- US Patent # 7248979 — Apparatus Employing Predictive Failure Analysis Based On In-Circuit Fet On-Resistance Characteristics
+- US Patent # 7249148 — System And Method For Adaptive User Settings
+- US Patent # 7249207 — Internal Data Bus Interconnection Mechanism Utilizing Central Interconnection Module Converting Data In Different Alignment Domains
+- US Patent # 7249279 — Multiprocessor Code Fix Using A Local Cache
+- US Patent # 7249285 — Address Watch Breakpoints In A Hardware Synchronization Range
+- US Patent # 7249313 — Creating And Utilizing A Wizard To Capture An Application’S Interdependencies Between Web Pages And Data Accesses For Running The Application’S Downloadable Dynamic Web Pages Off-Line
+- US Patent # 7249330 — Method, System And Program Product Providing A Configuration Specification Language Having Split Latch Support
+- US Patent # 7250311 — Wirebond Crack Sensor For Low-K Die
+- US Patent # 7250347 — Double-Gate Fets (Field Effect Transistors)
+- US Patent # 7250576 — Chip Package Having Chip Extension And Method
+- US Patent # 7250846 — Method And Apparatus For Providing Dynamic User Alert
+- US Patent # 7251135 — Easy Release Server Cooling Fan With Integrated Spring And Method For Using Same
+- US Patent # 7251185 — Methods And Apparatus For Using Memory
+- US Patent # 7251319 — Method And System For Application Initiated Teleconferencing
+- US Patent # 7251583 — Minimizing Use Of Parts That Will Reach Their End Of Life Prior To The Products For Which Those Parts Are Usable
+- US Patent # 7251611 — Method And System For Determining An Economically Optimal Dismantling Of Machines
+- US Patent # 7251630 — Distributed Bid Processing Method For Open-Cry And Descending Price Auctions
+- US Patent # 7251654 — System And Method For Ranking Nodes In A Network
+- US Patent # 7251667 — Unicode Input Method Editor
+- US Patent # 7251668 — Configuration Management Life Rename Utility
+- US Patent # 7251691 — Autonomic Predictive Load Balancing Of Output Transfers For Two Peer Computers For Data Storage Applications
+- US Patent # 7251808 — Graphical Debugger With Loadmap Display Manager And Custom Record Display Manager Displaying User Selected Customized Records From Bound Program Objects
+- US Patent # 7251833 — Digital Media Delivery With Local Cache And Streaming Tokens
+- US Patent # 7252514 — High Density Space Transformer And Method Of Fabricating Same
+- US Patent # 7253100 — Reducing Damage To Ulk Dielectric During Cross-Linked Polymer Removal
+- US Patent # 7253116 — High Ion Energy And Reative Species Partial Pressure Plasma Ash Process
+- US Patent # 7254577 — Methods, Apparatus And Computer Programs For Evaluating And Using A Resilient Data Representation
+- US Patent # 7254578 — Concurrency Classes For Shared File Systems
+- US Patent # 7254583 — Framework For Shared Physical Models In A Multi-Database Installation
+- US Patent # 7254656 — Method And Service And Computer Program Code For Broadcast Of Interface Group Bring-Up In A Multiprocessor Computer System Having Multiple Nodes
+- US Patent # 7254671 — File System Layout And Method Of Access For Streaming Media Applications
+- US Patent # 7254697 — Method And Apparatus For Dynamic Modification Of Microprocessor Instruction Group At Dispatch
+- US Patent # 7254700 — Fencing Off Instruction Buffer Until Re-Circulation Of Rejected Preceding And Branch Instructions To Avoid Mispredict Flush
+- US Patent # 7254745 — Diagnostic Probe Management In Data Processing Systems
+- US Patent # 7254809 — Compilation Of Unified Parallel C-Language Programs
+- US Patent # 7254815 — Method And Apparatus For Implementing Distributed Event Management In An Embedded Support Processor Computer System )
+- US Patent # 7255577 — Protective Cover For Dimm Circuit Card
+- US Patent # 7256114 — Process For Oxide Cap Formation In Semiconductor Manufacturing
+- US Patent # 7256399 — Non-Destructive In-Situ Elemental Profiling
+- US Patent # 7256439 — Trench Capacitor Array Having Well Contacting Merged Plate
+- US Patent # 7256647 — Method And Apparatus For Presetting An Amplifier
+- US Patent # 7257373 — Method And Apparatus For Determining Adjacency Of Wireless Device To Pos Terminal
+- US Patent # 7257516 — Method, Apparatus, And Program For Eliminating Thread Skew In Multithreaded Performance Benchmarks
+- US Patent # 7257569 — System And Method For Determining Community Overlap
+- US Patent # 7257577 — System, Method And Service For Ranking Search Results Using A Modular Scoring System
+- US Patent # 7257580 — Method, System, And Program For Restricting Modifications To Allocations Of Computational Resources (<
+- US Patent # 7257591 — Method Of Referencing Data Via Edge Definition
+- US Patent # 7257713 — Automatic Password Configuration During Error Reporting
+- US Patent # 7257777 — System And Method For Automatic Control Of Window Viewing
+- US Patent # 7257781 — Method, Circuit Library And Computer Program Product For Implementing Enhanced Performance And Reduced Leakage Current For Asic Designs
+- US Patent # 7257805 — Restoring Debugging Breakpoints Subsequent To Program Code Modifications
+- US Patent # 7258574 — Snap-Fit Electromagnetic Shield
+- US Patent # 7259590 — Driver For Multi-Voltage Island/Core Architecture
+- US Patent # 7259602 — Method And Apparatus For Implementing Fault Tolerant Phase Locked Loop (Pll)
+- US Patent # 7259701 — Method And Structure For Lossy Compression Of Continuous Data With Extensible Motifs
+- US Patent # 7259986 — Circuits And Methods For Providing Low Voltage, High Performance Register Files
+- US Patent # 7260096 — Method And Router For Forwarding Internet Data Packets
+- US Patent # 7260216 — State Machine Representation For Encrypting And Decrypting A Set Of Data Values And Method For Protecting The Same
+- US Patent # 7260494 — Eclipz Wiretest For Differential Clock/Oscillator Signals
+- US Patent # 7260542 — Method And System For The Real Time Sale Of Sensor Data
+- US Patent # 7260615 — Apparatus And Method For Analyzing Remote Data
+- US Patent # 7260664 — Interrupt Mechanism On An Io Adapter That Supports Virtualization
+- US Patent # 7260698 — Method And System For Page Initialization Using Off-Level Worker Thread
+- US Patent # 7260757 — System And Method For Testing Electronic Devices On A Microchip
+- US Patent # 7260799 — Exploiting Suspected Redundancy For Enhanced Design Verification
+- US Patent # 7260810 — Method Of Extracting Properties Of Back End Of Line (Beol) Chip Architecture
+- US Patent # 7261981 — System And Method Of Smoothing Mask Shapes For Improved Placement Of Sub-Resolution Assist Features
+- US Patent # 7262719 — Fast Data Stream Decoding Using Apriori Information
+- US Patent # 7262987 — Sram Cell Using Tunnel Current Loading Devices
+- US Patent # 7263230 — Narrow Field Abstract Meta-Data Image Compression
+- US Patent # 7263592 — Method For Completely Lock-Free User-Level Dynamic Memory Allocation
+- US Patent # 7263694 — Directed Non-Cyclic Graph Walking System For Data Processing And Analysis In Software Application
+- US Patent # 7263917 — An Open-Ended Spin Tool
+- US Patent # 7264041 — Compliant Thermal Interface Structure With Vapor Chamber )
+- US Patent # 7264415 — Methods Of Forming Alternating Phase Shift Masks Having Improved Phase-Shift Tolerance )
+- US Patent # 7265013 — Sidewall Image Transfer (Sit) Technologies
+- US Patent # 7265561 — Device Burn In Utilizing Voltage Control
+- US Patent # 7265639 — Methods And Apparatus For Ring Oscillator Based Mosfet Gate Capacitance Measurements ()
+- US Patent # 7265872 — Error Diffusion With Averaged Directional Biases
+- US Patent # 7266474 — Ring Oscillator Structure And Method Of Separating Random And Systematic Tolerance Values
+- US Patent # 7266489 — Method, System And Program Product For Determining A Configuration Of A Digital Design By Reference To An Invertible Configuration Database
+- US Patent # 7266503 — System And Method For Generating A Company Group User Profile
+- US Patent # 7266510 — Method For Graphically Representing Clickstream Data Of A Shopping Session On A Network With A Parallel Coordinate System
+- US Patent # 7266557 — File Retrieval Method And System
+- US Patent # 7266561 — Method And Apparatus For Splitting And Merging Request And Response Data At Runtime
+- US Patent # 7266584 — Electronic Mail Distribution Via A Network Of Computer Controlled Display Terminals With Interactive Display Interfaces Enabling Senders/Receivers To View Sequences Of Only Text From Sequences Of E-Mail Having Same Headers
+- US Patent # 7266596 — Dynamic Storage Space Linking
+- US Patent # 7266622 — Method, Computer Program Product, And System For Automatic Application Buffering
+- US Patent # 7266631 — Isolation Of Input/Output Adapter Traffic Class/Virtual Channel And Input/Output Ordering Domains
+- US Patent # 7266653 — Low-Cost Remote Data Mirroring
+- US Patent # 7266656 — Minimizing System Downtime Through Intelligent Data Caching In An Appliance-Based Business Continuance Architecture
+- US Patent # 7266663 — Automatic Cache Activation And Deactivation For Power Reduction
+- US Patent # 7266721 — Runtime Repairable Processor
+- US Patent # 7266766 — Method For Developing A Custom Tagbean
+- US Patent # 7266785 — Showing Ancestors In Tree View While Scrolling
+- US Patent # 7266789 — Method And Apparatus Of Optimizing The Io Collar Of A Peripheral Image
+
+- US Patent # 7266795 — System And Method For Engine-Controlled Case Splitting Within A Multiple-Engine Based Verification Framework
+- US Patent # 7266797 — An Automated And Electrically Robust Method For Placing Power Gating Switches In Voltage Islands
+- US Patent # 7266813 — Determining How Many Class-Type Checks To Inline
+- US Patent # 7268082 — Highly Selective Nitride Etching Employing Surface Mediated Uniform Reactive Layer Films
+- US Patent # 7268491 — Expandable Display Having Rollable Material
+- US Patent # 7268590 — Method And Apparatus For Implementing Subthreshold Leakage Reduction In Lsdl
+- US Patent # 7268624 — Differential Amplifier Offset Voltage Minimization Independently From Common Mode Voltage Adjustment
+- US Patent # 7268632 — Structure And Method For Providing Gate Leakage Isolation Locally Within Analog Circuits
+- US Patent # 7269029 — Rapid Fire Test Board
+- US Patent # 7269284 — Method And Apparatus Using Dual Bounding Boxes As Dynamic Templates For Cartridge Rack Identification And Tracking
+- US Patent # 7269474 — Controlled Self-Adjusting Process For Reducing Selected Dimensions Of Electronic Products
+- US Patent # 7269610 — System And Method To Observe User Behavior And Perform Actions Introspectable Objects
+- US Patent # 7269622 — Watermarking Messaging Sessions
+- US Patent # 7269647 — Simplified Network Packet Analyzer For Distributed Packet Snooper
+- US Patent # 7269718 — Method And Apparatus For Verifying Data Types To Be Used For Instructions And Casting Data Types If Needed (
+- US Patent # 7269729 — Relational Database Management Encryption System
+- US Patent # 7269808 — Design Verification
+- US Patent # 7269812 — Apparatus And Method For Performing Static Timing Analysis Of An Integrated Circuit Design
+- US Patent # 7270269 — Secure Electronic Voting Device
+- US Patent # 7271681 — Clearance Hole Size Adjustment For Impedance Control In Multilayer Electronic Packaging And Printed Circuit Boards
+- US Patent # 7271815 — System, Method And Program To Generate A Blinking Image
+- US Patent # 7271878 — Wafer Cell For Immersion Lithography
+- US Patent # 7272228 — System And Method For Securing Code And Ensuring Proper Execution Using State-Based Encryption
+- US Patent # 7272584 — Use Of Dominance To Improve Performance Or Increase Search Space In Genetic Algorithms
+- US Patent # 7272593 — Use Of Dominance To Improve Performance Or Increase Search Space In Genetic Algorithms
+- US Patent # 7272615 — Meta-Data Driven Resource Management
+- US Patent # 7272663 — Method And System For Delineating Data Segments Subjected To Data Compression
+- US Patent # 7272734 — Memory Management To Enable Memory Deep Power Down Mode In General Computing Systems
+- US Patent # 7272751 — Error Detection During Processor Idle Cycles
+- US Patent # 7272759 — Method And Apparatus For System Monitoring With Reduced Function Cores )
+- US Patent # 7272777 — Method For Correcting A Burst Of Errors Plus Random Errors
+- US Patent # 7272809 — Method, Apparatus And Computer Program Product For Implementing Enhanced High Frequency Return Current Paths Utilizing Decoupling Capacitors In A Package Design
+- US Patent # 7272824 — Method For Runtime Determination Of Available Input Argument Types For A Software Program
+- US Patent # 7272826 — Hierarchical Breakpoint Groups
+- US Patent # 7272835 — Apparatus And Method For Obtaining A String Representation Of Objects In Displayed Hierarchical Structures
+- US Patent # 7272850 — Turnkey Data Security
+- US Patent # 7274057 — Techniques For Spin-Flop Switching With Offset Field
+- US Patent # 7274781 — Method And System For Enhancement Of Caller Identification
+- US Patent # 7275011 — Method And Apparatus For Monitoring Integrated Circuit Temperature Through Deterministic Path Delays
+- US Patent # 7275055 — Method And System For Managing Aggregation Data Structures )
+- US Patent # 7275065 — Method And System For Supporting Per-User-Per-Row Read/Unread Tracking For Relational Databases
+- US Patent # 7275085 — Method And Apparatus For Maintaining State Information For Web Pages Using A Directory Server
+- US Patent # 7275124 — Method And System For Controlling Forwarding Or Terminating Of A Request At A Bus Interface Based On Buffer Abvailability
+- US Patent # 7275125 — Pipeline Bit Handling Circuit And Method For A Bus Bridge
+- US Patent # 7275131 — Cache Refresh Algorithm And Method
+- US Patent # 7275185 — Method And Apparatus For Device Error Log Persistence In A Logical Partitioned Data Processing System )
+- US Patent # 7275194 — Clock Duty Cycle Based Access Timer Combined With Standard Stage Clocked Output Register
+- US Patent # 7275224 — Method For Providing An Area Optimized Binary Orthogonality Checker
+- US Patent # 7275226 — Method Of Performing Latch Up Check On An Integrated Circuit Design
+- US Patent # 7275238 — Program Event Activated And Configured Debugger Method, System, Article Of Manufacture, Computer Program Product, And Data Structure
+- US Patent # 7275239 — Run-Time Wait Tracing Using Byte Code Insertion
+- US Patent # 7275241 — Dynamic Instrumentation For A Mixed Mode Virtual Machine
+- US Patent # 7276316 — Common Second Level Frame Exposure Methods For Making Embedded Attenuated Phase Shift Masks
+- US Patent # 7277283 — Cooling Apparatus, Cooled Electronic Module And Methods Of Fabrication Thereof Employing An Integrated Coolant Inlet And Outlet Manifold )
+- US Patent # 7277768 — Method For Production Design And Operations Scheduling For Plate Design In The Steel Industry
+- US Patent # 7277805 — Jitter Measurements For Repetitive Clock Signals
+- US Patent # 7277997 — Data Consistency For Mirroring Updatable Source Data Storage
+- US Patent # 7278056 — Methods, Systems, And Media For Management Of Functional Verification
+- US Patent # 7278100 — Translating A Non-Unicode String Stored In A Constant Into Unicode, And Storing The Unicode Into The Constant
+- US Patent # 7278127 — Overlapping Shape Design Rule Error Prevention
+- US Patent # 7278157 — Efficient Transmission Of Ip Data Using Multichannel Socks Server Proxy
+- US Patent # 7280055 — Method And Apparatus For Encoding Binary Data As A Zero Terminated String
+- US Patent # 7280293 — Multi-Level Mapping Of Tape Error Recoveries
+- US Patent # 7280477 — Token-Based Active Queue Management
+- US Patent # 7280982 — System And Method For A Fee Address System
+- US Patent # 7281004 — Method, System And Program For Optimizing Compression Of A Workload Processed By A Database Management System
+- US Patent # 7281052 — Data Tracing Identifiers
+- US Patent # 7281070 — Multiple Master Inter Integrated Circuit Bus System
+- US Patent # 7281182 — Method And Circuit Using Boundary Scan Cells For Design Library Analysis
+- US Patent # 7281235 — Computer Controlled System For Modularizing The Information Technology Structure Of A Business Enterprise Into A Structure Of Holonic Self-Contained Modules
+- US Patent # 7282441 — De-Fluorination After Via Etch To Preserve Passivation
+- US Patent # 7282899 — Active Impendance Current-Share Method
+- US Patent # 7282961 — Apparatus For Hysteresis Based Process Compensation For Cmos Receiver Circuits
+- US Patent # 7283404 — Content Addressable Memory Including A Dual Mode Cycle Boundary Latch
+- US Patent # 7283410 — A Real-Time Adaptive Sram Array For High Seu Immunity
+- US Patent # 7283473 — Apparatus, System And Method For Providing Multiple Logical Channel Adapters Within A Single Physical Channel Adapter In A Systen Area Network
+- US Patent # 7283687 — Imaging For Virtual Cameras
+- US Patent # 7283986 — End-To-End Business Integration Testing Tool
+- US Patent # 7284012 — Multiple Attribute Object Comparison Based On Quantitative Distance Measurement )
+- US Patent # 7284019 — Apparatus, System, And Method For Differential Backup Using Snapshot On-Write Data (
+- US Patent # 7284084 — Rom Scan Memory Expander
+- US Patent # 7284093 — Self-Tuning Cache
+- US Patent # 7284094 — Mechanism And Apparatus Allowing An N-Way Set Associative Cache, Implementing A Hybrid Pseudo-Lru Replacement Algorithm, To Have N L1 Miss Fetch Requests Simultaneously Inflight Regardless Of Their Congruence Class
+- US Patent # 7284097 — Modified-Invalid Cache State To Reduce Cache-To-Cache Data Transfer Operations For Speculatively-Issued Full Cache Line Writes
+- US Patent # 7284138 — Deep Power Saving By Disabling Clock Distribution Without Separate Clock Distribution For Power Management Logic
+- US Patent # 7284153 — Apparatus, Method, And System For Logging Diagnostic Information (
+- US Patent # 7284172 — Access Method For Embedded Jtag Tap Controller Instruction Registers
+- US Patent # 7284265 — System And Method For Incremental Refresh Of A Compiled Access Control Table In A Content Management System
+- US Patent # 7284992 — Electronic Package Structures Using Land Grid Array Interposers For Module-To-Board Interconnection
+- US Patent # 7285775 — Endpoint Detection For The Patterning Of Layered Materials
+- US Patent # 7285962 — Method And Apparatus For Evaluating Susceptibility To Common Mode Noise In A Computer System
+- US Patent # 7286526 — Uniform Management Of Mixed Network Systems
+- US Patent # 7286620 — Equalizer For Reduced Intersymbol Interference Via Partial Clock Switching
+- US Patent # 7287043 — System And Method For Asynchronous Data Replication Without Persistence For Distributed Computing
+- US Patent # 7287063 — Storage Area Network Methods And Apparatus Using Event Notifications With Data
+- US Patent # 7287077 — Reservation Of Tcp/Udp Ports Using Uid, Gid Or Process Name )
+- US Patent # 7287111 — Method And System For Creating And Dynamically Selecting An Arbiter Design In A Data Processing System
+- US Patent # 7287181 — Mirrored Volume Replication Method, Apparatus, And System
+- US Patent # 7287196 — Measuring Reliability Of Transactions
+- US Patent # 7287234 — Methods, Systems And Computer Program Products For Use Of Color Saturation To Highlight Items In A Tree Map Visualization
+
+- US Patent # 7287258 — Thread Consistency Support System And Method
+- US Patent # 7289000 — Clock Scaling To Optimize Pll Clock Generation Accuracy
+- US Patent # 7289006 — Method And Apparatus For Implementing Common Mode Cable Noise Suppression For Medium Range Frequencies
+- US Patent # 7289370 — Methods And Apparatus For Accessing Memory
+- US Patent # 7289444 — Method For Providing Bounded Latency In A Real-Time Data Processing System
+- US Patent # 7289679 — System And Method For Measuring Image Quality Using Compressed Image Data
+- US Patent # 7289926 — System And Method For Examining High-Frequency Clock-Masking Signal Patterns At Full Speed
+- US Patent # 7289968 — Forecasting Demand For Cuitical Parts In A Product Line
+- US Patent # 7289991 — Apparatus, System, And Method For Sorting Character Representations Of Data
+- US Patent # 7289998 — Method To Update A Data Structure Disposed In An Embedded Device
+- US Patent # 7290026 — Low-Power High-Speed 4-2 Compressor With Minimized Transistor Count
+- US Patent # 7290027 — Circuit Suitable For Use In A Carry Lookahead Adder
+- US Patent # 7290085 — Method And System For Flexible And Efficient Protocol Table Implementation
+- US Patent # 7290099 — Using Parallelism For Clear Status Track Processing During Error Handling Behavior In A Storage System
+- US Patent # 7290181 — Apparatus And Method For Context-Sensitive Error Event Notification
+- US Patent # 7290219 — System And Method For Selection Based Action Bar
+- US Patent # 7290235 — Method And System For Embedding Wire Model Objects In A Circuit Schematic Design
+- US Patent # 7290238 — Method, System And Program Product For Building An Automated Datapath System Generating Tool
+- US Patent # 7290261 — Method And Logical Apparatus For Rename Register Reallocation In A Simultaneous Multi-Threaded (Smt) Processor
+- US Patent # 7290262 — Method And Apparatus For Dynamically Determining Information For Deploying A Web Service
+- US Patent # 7293035 — System And Method For Performing Compression/Encryption On Data Such That The Number Of Duplicate Blocks In The Transformed Data Is Increased
+- US Patent # 7294440 — Method To Selectively Correct Critical Dimension Errors In The Semiconductor Industry
+- US Patent # 7294786 — System And Method For Managing A Cable In A Server System
+- US Patent # 7295048 — Method And Apparatus For Generating Spread Spectrum Clock Signals Having Harmonic Emission Suppressions
+- US Patent # 7295694 — Micr-Based Optical Character Recognition System And Method
+- US Patent # 7295882 — Method And Apparatus For Audible Error Code Detection And Identification
+- US Patent # 7295953 — Scenario Based Testing And Load Generation For Web Applications
+- US Patent # 7296029 — Environmentally Responsive Oscillating Circular Affinity Index
+- US Patent # 7296108 — Apparatus And Method For Efficient Transmission Of Unaligned Data
+- US Patent # 7296130 — Method And Apparatus For Providing Hardware Assistance For Data Access Coverage On Dynamically Allocated Data
+- US Patent # 7296193 — Technique For Processing An Error Using Write-To-Operator-With-Reply In A Ported Application
+- US Patent # 7296251 — Method Of Physical Planning Voltage Islands For Asics And System-On-Chip Designs
+- US Patent # 7296262 — Data Processing System, Method, And Computer Program Product For Generating A Generic Compilation Interface From Object-Oriented Code
+- US Patent # 7298961 — Portable Video Recording Device For Both Converting Video Cassette Recorders (Vcr) To Digital Recorders And For Converting Video Cassette Recording Content Into Stored Digital Data
+- US Patent # 7299225 — High Performance Predicate Push-Down For Non-Matching Predicate Operands
+- US Patent # 7299234 — Method And Apparatus For Validating And Configuring Database Transaction Requests From Multiple Clients
+- US Patent # 7299319 — Method And Apparatus For Providing Hardware Assistance For Code Coverage
+- US Patent # 7299404 — Dynamic Maintenance Of Web Indices Using Landmarks
+- US Patent # 7299418 — Navigation Method For Visual Presentations
+- US Patent # 7299432 — Method For Preserving Constraints During Sequential Reparameterization
+- US Patent # 7299469 — Hierarchical Weighting Of Donor And Recipient Pools For Optimal Reallocation In Logically Partitioned Computer Systems
+- US Patent # 7299473 — Method And Apparatus For Reducing Library Size On A Compressed File System
+- US Patent # 7299503 — Apparatus And Method For Location Specific Authentication Using Powerline Networking
+- US Patent # 7300825 — Customizing Back End Of The Line Interconnects
+- US Patent # 7301770 — Cooling Apparatus, Cooled Electronic Module, And Methods Of Fabrication Thereof Employing Thermally Conductive, Wire-Bonded Pin Fins
+- US Patent # 7302441 — System And Method For Gradually Bringing Rolled In Data Online With Incremental Deferred Integrity Processing
+- US Patent # 7302448 — System And Method For Maintaining Multiple Devices With A Single Device Identifier
+- US Patent # 7302452 — Method And Apparatus For Handling Requests For Files In A Data Processing System
+- US Patent # 7302491 — System And Method Of Reducing Data Corruption Due To Recycled Ip Indentification Numbers (
+- US Patent # 7302533 — System And Method For Optimally Configuring Software Systems For A Numa Platform
+- US Patent # 7302553 — Apparatus, System And Method For Quickly Determining An Oldest Instruction In A Non-Moving Instruction Queue
+- US Patent # 7302556 — Method, Apparatus And Computer Program Product For Implementing Level Bias Function For Branch Prediction Control For Generating Test Simulation Vectors
+- US Patent # 7302605 — Method And Structure For Replacing Faulty Operating Code Contained In A Rom For A Processor
+- US Patent # 7302659 — System And Method For Unfolding/Replicating Logic Paths To Facilitate Propagation Delay Modeling
+- US Patent # 7302664 — System And Method For Automatic Insertion Of On-Chip Decoupling Capacitors
+- US Patent # 7302690 — Method And Apparatus For Transparently Sharing An Exception Vector Between Firmware And An Operating System
+- US Patent # 7304849 — Compliant Thermal Cap For An Electronic Device
+- US Patent # 7304895 — Bitline Variable Methods And Circuits For Evaluating Static Memory Cell Dynamic Stability
+- US Patent # 7304956 — Extended Wrap Mode With Source/Destination Wrap
+- US Patent # 7305379 — System For Automated Storage Management For Databases
+- US Patent # 7305446 — Method And System For Processing Ingress Messages For A State Based Application Associated With A Network Processor
+- US Patent # 7305461 — Method And System For Network Management With Backup Status Gathering
+- US Patent # 7305485 — Method And System For Network Management With Per-Endpoint Adaptive Data Communication Based On Application Life Cycle
+- US Patent # 7305515 — Performance Optimizing Compiler For Building A Compiled Dram (
+- US Patent # 7305523 — Cache Memory Direct Intervention
+- US Patent # 7305629 — Consolidation Of Computer Documentation
+- US Patent # 7305636 — Method And System For Formal Unidirectional Bus Verification Using Synthesizing Constrained Drivers
+- US Patent # 7305639 — Method And Apparatus For Specifying Multiple Voltage Domains And Validating Physical Implementation And Interconnections In A Processor Chip
+- US Patent # 7305652 — Standard Application Development Template
+- US Patent # 7305653 — Standard Application Development Framework
+- US Patent # 7305660 — Method To Generate A Formatted Trace For An Embedded Device
+- US Patent # 7305678 — Method And System For Reducing Synchronization Waits When Allocating Sequenced Identifiers In A Multi-Threaded Server
+- US Patent # 7306668 — Kaolin Pigment Having High Brightness And Narrow Particle Size Distribution And Method Of Preparation Therefor
+- US Patent # 7307551 — Delimiter Lookup Using Processor Permutation Instruction
+- US Patent # 7308079 — Automating Testing Path Responses To External Systems Within A Voice Response System
+- US Patent # 7308437 — Optimization Of Queries Using Retrieval Status Of Resources Used Thereby
+- US Patent # 7308537 — Half-Good Mode For Large L2 Cache Array Topology With Different Latency Domains
+- US Patent # 7308543 — Method And System For Shredding Data Within A Data Storage Subsystem
+- US Patent # 7308562 — System And Method For Improved Branch Performance In Pipelined Computer Architectures
+- US Patent # 7308603 — Method And System For Reducing Memory Faults While Running An Operating System
+- US Patent # 7308616 — Method, Apparatus, And Computer Program Product For Enhanced Diagnostic Test Error Reporting Utilizing Fault Isolation Registers
+- US Patent # 7308649 — Providing Scalable, Alternative Component-Level Views
+- US Patent # 7308657 — Method For Generating Hints For Program Analysis
+- US Patent # 7308679 — Method And Computer Program Product For Providing A Meta-Data Programming Language Level Interface
+- US Patent # 7308681 — Control Flow Based Compression Of Execution Traces
+- US Patent # 7308690 — System And Method To Improve Harvesting Of Zombie Processes In An Operating System
+- US Patent # 7309660 — Buffer Layer For Selective Sige Growth For Uniform Nucleation
+- US Patent # 7310345 — Empty Indicators For Weighted Fair Queues
+- US Patent # 7312402 — Method And Apparatus For Providing Improved Loop Inductance Of Decoupling Capacitors
+- US Patent # 7313290 — Method For Improving The Viewing Of Small Icons And Small Text On High Resolution Displays
+- US Patent # 7313553 — Apparatus And Method For Using Values From A Frequent Values List To Bridge Additional Keys In A Database Index
+- US Patent # 7313563 — Method, System And Recording Medium For Maintaining The Order Of Nodes In A Heirarchical Document
+- US Patent # 7313568 — Generating And Analyzing Business Process-Aware Modules
+- US Patent # 7313593 — Method And Apparatus For Providing Full Duplex And Multipoint Ip Audio Streaming
+- US Patent # 7313615 — Communications Management Using Weights And Thresholds
+- US Patent # 7313638 — Command Accumulation Tool
+- US Patent # 7313796 — Reciprocity And Stabilization In Dynamic Resource Reallocation Among Logically Partitioned Systems
+- US Patent # 7313820 — Method And System For Providing An Authorization Framework For Applications
+- US Patent # 7313827 — Apparatus And Method For Analysis Of Conversational Patterns To Position Information And Autonomic Access Control List Management
+- US Patent # 7315305 — Method For Visualizing Data
+
+- US Patent # 7315873 — Depth Counter Used To Reduce Number Of Items To Consider For Loop Detection In A Reference-Counting Storage Reclamation Program
+- US Patent # 7315896 — Server Network Controller Including Packet Forwarding And Method Therefor
+- US Patent # 7315950 — Method Of Securely Sharing Information Over Public Networks Using Untrusted Service Providers And Tightly Controlling Client Accessibility
+- US Patent # 7315963 — System And Method For Detecting Errors In A Network
+- US Patent # 7315980 — Method And Apparatus For Generating Electronic Document Definitions )
+- US Patent # 7315988 — System And Method For Using Short Captions To Map User Interfaces
+- US Patent # 7316000 — Interactive Agent For A Topological Multi-Tier Business Application Composer
+- US Patent # 7316006 — Embedding Keys Into Test Data
+- US Patent # 7317401 — Method And Mechanical Tamper-Evident Case Fastener
+- US Patent # 7317514 — System And Method For Optimizing Heat Management
+- US Patent # 7317605 — Method And Apparatus For Improving Performance Margin In Logic Paths
+- US Patent # 7317777 — Digital Adaptive Control Loop For Data Deserialization
+- US Patent # 7317791 — Apparatus And Method For Controlling Conference Call Participants
+- US Patent # 7318127 — Method, Apparatus, And Computer Program Product For Sharing Data In A Cache Among Threads In An Smt Processor
+- US Patent # 7318164 — Conserving Energy In A Data Processing System By Selectively Powering Down Processors
+- US Patent # 7318168 — Bit Map Write Logging With Write Order Preservation In Support Of Asynchronous Update Of Secondary Storage
+- US Patent # 7318174 — Systems, Methods, And Computer Readable Medium For Analyzing Memory
+- US Patent # 7318182 — Memory Array Manufacturing Defect Detection System And Method
+- US Patent # 7318209 — Pulse-Width Limited Chip Clock Design )
+- US Patent # 7318212 — Method And System For Modeling Wiring Routing In A Circuit Design
+- US Patent # 7318218 — System And Method For Processor Thread For Software Debugging
+- US Patent # 7318223 — Method And Apparatus For A Generic Language Interface To Apply Loop Optimization Transformations
+- US Patent # 7319578 — Digital Power Monitor And Adaptive Self-Tuning Power Management
+- US Patent # 7336835 — Method, System, And Program Product Of Error Recovery While Decoding Cached Compressed Data
+- US Patent # 7336836 — Method, System, And Program Product For Error Recovery While Transmitting And Decoding Compressed Data
+- US Patent # 7483580 — System And Program Product For Error Recovery While Decoding Cached Compressed Data
+- US Patent # 7486833 — System And Program Product For Error Recovery While Decoding Cached Compressed Data
+- US Patent # 7489823 — Method For Using A Reentry Data Set To Decode Compressed Data
+- US Patent # 7545990 — System And Program For Using A Reentry Data Set To Decode Compressed Data

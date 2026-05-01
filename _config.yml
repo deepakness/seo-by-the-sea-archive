@@ -1,0 +1,27 @@
+title: "SEO by the Sea Archive"
+description: "A preservation archive of Bill Slawski's SEO by the Sea writing."
+url: ""
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "archive/posts"
+      type: "pages"
+    values:
+      layout: "post"
+      archived_post: true

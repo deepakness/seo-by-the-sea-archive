@@ -1,0 +1,18 @@
+---
+layout: null
+permalink: /search.json
+---
+{% assign posts = site.pages | where_exp: "item", "item.archived_post == true" | sort: "date_published" | reverse %}
+[
+{% for post in posts %}
+  {
+    "title": {{ post.title | default: post.slug | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "date_published": {{ post.date_published | default: "" | jsonify }},
+    "source_url": {{ post.source_url | default: "" | jsonify }},
+    "slug": {{ post.slug | default: "" | jsonify }},
+    "author": {{ post.author | default: "Bill Slawski" | jsonify }},
+    "content": {{ post.content | strip_html | strip_newlines | truncate: 1600 | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

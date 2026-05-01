@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="post-shell">
+  <header class="post-header">
+    <p class="eyebrow">Archived post</p>
+    <h1>{{ page.title }}</h1>
+    <div class="post-meta">
+      {% if page.author %}<span>{{ page.author }}</span>{% endif %}
+      {% if page.date_published %}
+        <span>{{ page.date_published | date: "%B %-d, %Y" }}</span>
+      {% endif %}
+      {% if page.source_url %}
+        <a href="{{ page.source_url }}">Original source</a>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="post-notice">
+    This is a preservation copy. Rights remain with Bill Slawski and/or the
+    appropriate rightsholders.
+  </div>
+
+  <div class="prose post-content">
+    {{ content }}
+  </div>
+
+  <nav class="post-footer-nav" aria-label="Post navigation">
+    <a href="{{ '/archive/' | relative_url }}">Back to archive</a>
+    <a href="{{ '/search/' | relative_url }}">Search all posts</a>
+  </nav>
+</article>
