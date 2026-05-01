@@ -11,8 +11,8 @@ people learn.
 
 ## Browse the Archive
 
-- Website: enable GitHub Pages from the repository root to browse the archive as
-  a reader-friendly site.
+- Website: after GitHub Pages is enabled, browse the archive at
+  `https://deepakness.github.io/seo-by-the-sea-archive/`.
 - Start here: [`/start-here/`](start-here.md)
 - Full post inventory: [`archive/POSTS.md`](archive/POSTS.md)
 - Archive audit: [`archive/AUDIT.md`](archive/AUDIT.md)
