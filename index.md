@@ -38,15 +38,11 @@ description: A reader-friendly preservation archive of Bill Slawski's SEO by the
     <p class="eyebrow">Start simply</p>
     <h2>Three clear ways in.</h2>
     <p class="section-lede">
-      Begin with a short guide, scan every preserved post, or search directly
-      for the concept, company, patent, or phrase you remember.
+      Scan every preserved post, search directly for a concept or phrase, or
+      jump into one of Bill's signature subjects.
     </p>
 
     <div class="link-grid link-grid--primary">
-      <a class="link-panel" href="{{ '/start-here/' | relative_url }}">
-        <strong>Start Here</strong>
-        <span>A friendly first path through Bill's recurring themes.</span>
-      </a>
       <a class="link-panel" href="{{ '/archive/' | relative_url }}">
         <strong>Archive</strong>
         <span>The complete preserved collection, newest first.</span>

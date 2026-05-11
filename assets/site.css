@@ -134,25 +134,28 @@ img {
   align-items: center;
   justify-content: center;
   flex: 0 0 auto;
-  width: 2.25rem;
-  height: 2.25rem;
+  width: 2.5rem;
+  height: 2.5rem;
   color: var(--ink);
-  border: 1px solid transparent;
+  border: 1px solid var(--line);
   border-radius: 50%;
+  background: var(--paper);
   text-decoration: none;
-  transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
+  box-shadow: 0 8px 24px rgba(24, 32, 38, 0.08);
+  transition: background 160ms ease, border-color 160ms ease, box-shadow 160ms ease, color 160ms ease, transform 160ms ease;
 }
 
 .github-link:hover {
   background: var(--soft);
-  border-color: var(--line);
+  border-color: var(--accent);
+  box-shadow: 0 12px 28px rgba(24, 32, 38, 0.12);
   color: var(--accent-strong);
   transform: translateY(-1px);
 }
 
 .github-link svg {
-  width: 1.25rem;
-  height: 1.25rem;
+  width: 1.35rem;
+  height: 1.35rem;
   fill: currentColor;
 }
 
