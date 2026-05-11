@@ -315,6 +315,11 @@ button.button:hover {
   border: 1px solid var(--line);
 }
 
+.link-grid--primary {
+  max-width: 980px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
 .link-panel {
   min-height: 11rem;
   padding: 1.25rem;
@@ -450,6 +455,29 @@ button.button:hover {
   margin-top: 0.25rem;
   color: var(--muted);
   font-size: 0.92rem;
+}
+
+.page-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0 2.25rem;
+}
+
+.supporting-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.9rem;
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.94rem;
+}
+
+.supporting-links strong {
+  flex-basis: 100%;
+  color: var(--ink);
 }
 
 .topic-block {

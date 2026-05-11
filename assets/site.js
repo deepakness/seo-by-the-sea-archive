@@ -1,6 +1,6 @@
 (function () {
   function baseUrl(path) {
-    var base = window.SEOBTS_BASEURL || "";
+    var base = window.ARCHIVE_BASEURL || window.SEOBTS_BASEURL || window.ERICWARD_BASEURL || "";
     return base + path;
   }
 
@@ -38,7 +38,7 @@
     resultsEl.innerHTML = "";
 
     if (!query) {
-      statusEl.textContent = "Type a topic, patent, company, or search concept.";
+      statusEl.textContent = window.ARCHIVE_EMPTY_SEARCH_TEXT || "Type a topic, title, date, source URL, or phrase.";
       return;
     }
 
@@ -60,7 +60,7 @@
       link.textContent = item.title || item.slug || "Untitled post";
 
       meta.className = "item-meta";
-      meta.textContent = [formatDate(item.date_published), item.author || "Bill Slawski"]
+      meta.textContent = [formatDate(item.date_published), item.author || window.ARCHIVE_DEFAULT_AUTHOR || ""]
         .filter(Boolean)
         .join(" / ");
 
@@ -83,6 +83,9 @@
     var params = new URLSearchParams(window.location.search);
     var initialQuery = params.get("q") || "";
     input.value = initialQuery;
+    if (!initialQuery && window.matchMedia("(min-width: 761px)").matches) {
+      input.focus();
+    }
 
     fetch(baseUrl("/search.json"))
       .then(function (response) {

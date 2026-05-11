@@ -1,5 +1,6 @@
 ---
 title: Start Here
+eyebrow: Start here
 description: Friendly routes into Bill Slawski's writing for different kinds of readers.
 permalink: /start-here/
 ---

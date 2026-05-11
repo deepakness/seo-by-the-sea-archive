@@ -19,8 +19,8 @@ description: A reader-friendly preservation archive of Bill Slawski's SEO by the
         original website becomes unavailable.
       </p>
       <div class="hero-actions">
-        <a class="button" href="{{ '/start-here/' | relative_url }}">Start reading</a>
-        <a class="button secondary" href="{{ '/search/' | relative_url }}">Search the archive</a>
+        <a class="button" href="{{ '/archive/' | relative_url }}">View full archive</a>
+        <a class="button secondary" href="{{ '/search/' | relative_url }}">Search</a>
       </div>
     </div>
     <figure class="home-hero__portrait">
@@ -30,6 +30,36 @@ description: A reader-friendly preservation archive of Bill Slawski's SEO by the
         <a href="https://gofishdigital.com/blog/a-sad-loss-for-the-seo-community/">Go Fish Digital's memorial post</a>.
       </figcaption>
     </figure>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-inner">
+    <p class="eyebrow">Start simply</p>
+    <h2>Three clear ways in.</h2>
+    <p class="section-lede">
+      Begin with a short guide, scan every preserved post, or search directly
+      for the concept, company, patent, or phrase you remember.
+    </p>
+
+    <div class="link-grid link-grid--primary">
+      <a class="link-panel" href="{{ '/start-here/' | relative_url }}">
+        <strong>Start Here</strong>
+        <span>A friendly first path through Bill's recurring themes.</span>
+      </a>
+      <a class="link-panel" href="{{ '/archive/' | relative_url }}">
+        <strong>Archive</strong>
+        <span>The complete preserved collection, newest first.</span>
+      </a>
+      <a class="link-panel" href="{{ '/search/' | relative_url }}">
+        <strong>Search</strong>
+        <span>Find posts by topic, title, date, source URL, or excerpt.</span>
+      </a>
+      <a class="link-panel" href="{{ '/search/?q=PageRank' | relative_url }}">
+        <strong>Search PageRank</strong>
+        <span>Jump into one of Bill's signature subjects.</span>
+      </a>
+    </div>
   </div>
 </section>
 
@@ -45,44 +75,6 @@ description: A reader-friendly preservation archive of Bill Slawski's SEO by the
     <div class="stats-row" aria-label="Archive statistics">
       <div class="stat"><strong>1,290</strong><span>archived posts</span></div>
       <div class="stat"><strong>1,525</strong><span>downloaded media files</span></div>
-    </div>
-  </div>
-</section>
-
-<section class="section">
-  <div class="section-inner">
-    <p class="eyebrow">Browse</p>
-    <h2>Find a path into the archive.</h2>
-    <p class="section-lede">
-      Start with curated reading paths, browse by year, explore topic clusters,
-      or search across the whole archive.
-    </p>
-
-    <div class="link-grid">
-      <a class="link-panel" href="{{ '/start-here/' | relative_url }}">
-        <strong>Start here</strong>
-        <span>Reader-friendly routes through Bill's work.</span>
-      </a>
-      <a class="link-panel" href="{{ '/years/' | relative_url }}">
-        <strong>Browse by year</strong>
-        <span>Move through the archive chronologically.</span>
-      </a>
-      <a class="link-panel" href="{{ '/topics/' | relative_url }}">
-        <strong>Browse by topic</strong>
-        <span>Patents, PageRank, entities, local search, and more.</span>
-      </a>
-      <a class="link-panel" href="{{ '/search/?q=PageRank' | relative_url }}">
-        <strong>Search PageRank</strong>
-        <span>Jump into one of Bill's signature subjects.</span>
-      </a>
-      <a class="link-panel" href="{{ '/search/?q=entities' | relative_url }}">
-        <strong>Search entities</strong>
-        <span>Knowledge graphs, entity names, and semantic search.</span>
-      </a>
-      <a class="link-panel" href="{{ '/archive/' | relative_url }}">
-        <strong>Archive details</strong>
-        <span>Manifests, audit notes, and preservation metadata.</span>
-      </a>
     </div>
   </div>
 </section>

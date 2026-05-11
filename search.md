@@ -1,11 +1,12 @@
 ---
 title: Search
+eyebrow: Search
 description: Search titles, dates, slugs, source URLs, and short content excerpts from the archive.
 permalink: /search/
 ---
 
-Use search for topics, companies, patents, algorithms, or phrases from Bill's
-writing.
+Search the preserved posts by topic, company, patent, algorithm, date, source
+URL, or phrase.
 
 <form class="search-form" action="{{ '/search/' | relative_url }}" method="get">
   <label class="visually-hidden" for="archive-search">Search archive</label>

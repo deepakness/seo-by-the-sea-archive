@@ -1,39 +1,25 @@
 ---
 title: Archive
-description: Browse the preserved SEO by the Sea collection and its supporting metadata.
+eyebrow: Full archive
+description: The complete preserved SEO by the Sea collection, listed newest first.
 permalink: /archive/
 ---
 
 {% assign posts = site.pages | where_exp: "item", "item.archived_post == true" | sort: "date_published" | reverse %}
 
-This archive contains **{{ posts | size }}** preserved posts from SEO by the Sea.
-Each post keeps its original source URL in the front matter and links back to
-the source from the reader page.
+This is the full archive: **{{ posts | size }}** preserved posts from SEO by the Sea,
+listed newest first. Each reader page keeps the original source URL and
+available preservation metadata.
 
-## Browse
+<p class="page-actions">
+  <a class="button" href="{{ '/search/' | relative_url }}">Search archive</a>
+  <a class="button secondary" href="{{ '/start-here/' | relative_url }}">Start Here</a>
+</p>
 
-- [Start with curated reading paths]({{ '/start-here/' | relative_url }})
-- [Search all posts]({{ '/search/' | relative_url }})
-- [Browse by year]({{ '/years/' | relative_url }})
-- [Browse by topic]({{ '/topics/' | relative_url }})
-
-## Repository
-
-The public source for this preservation archive is on GitHub:
-
-[github.com/deepakness/seo-by-the-sea-archive](https://github.com/deepakness/seo-by-the-sea-archive)
-
-## Preservation Files
-
-- [Full post inventory](POSTS.md)
-- [Archive audit](AUDIT.md)
-- [JSON manifest](posts_manifest.json)
-- [CSV manifest](posts_manifest.csv)
-
-## Recent Posts in the Archive
+## Full Archive
 
 <ol class="archive-list">
-{% for post in posts limit: 40 %}
+{% for post in posts %}
   <li>
     <a class="item-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <span class="item-meta">
@@ -44,4 +30,13 @@ The public source for this preservation archive is on GitHub:
 {% endfor %}
 </ol>
 
-[Browse the complete year-by-year archive]({{ '/years/' | relative_url }}).
+<div class="supporting-links">
+  <strong>Supporting archive files</strong>
+  <a href="{{ '/years/' | relative_url }}">Year index</a>
+  <a href="{{ '/topics/' | relative_url }}">Topic index</a>
+  <a href="POSTS.md">Post inventory</a>
+  <a href="AUDIT.md">Audit notes</a>
+  <a href="posts_manifest.json">JSON manifest</a>
+  <a href="posts_manifest.csv">CSV manifest</a>
+  <a href="https://github.com/deepakness/seo-by-the-sea-archive">GitHub repository</a>
+</div>
