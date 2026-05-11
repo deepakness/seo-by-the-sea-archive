@@ -88,6 +88,10 @@ img {
   backdrop-filter: blur(12px);
 }
 
+.site-header .site-nav {
+  margin-left: auto;
+}
+
 .site-mark {
   color: var(--ink);
   text-decoration: none;
@@ -123,6 +127,33 @@ img {
 
 .site-nav a:hover {
   color: var(--accent-strong);
+}
+
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 2.25rem;
+  height: 2.25rem;
+  color: var(--ink);
+  border: 1px solid transparent;
+  border-radius: 50%;
+  text-decoration: none;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.github-link:hover {
+  background: var(--soft);
+  border-color: var(--line);
+  color: var(--accent-strong);
+  transform: translateY(-1px);
+}
+
+.github-link svg {
+  width: 1.25rem;
+  height: 1.25rem;
+  fill: currentColor;
 }
 
 .site-main {
